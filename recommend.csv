@@ -1,0 +1,1058 @@
+,hotel_id,hotel_name,first recommendation,distance 1,second recommendation,distance 2,thrid recommendation,distance 3
+0,75737,Night Theater District,Night Times Square,0.8736773639288656,Hotel Mela,0.9150827545391452,Paramount Hotel New York,0.932268223474115
+1,93401,Heritage Hotel New York City,Chelsea Savoy Hotel,0.9042769832924087,Clarion Hotel Park Avenue,0.9435307560684218,The Wolcott Hotel,0.9493668725809573
+2,224217,Clarion Hotel Park Avenue,Redford Hotel,0.9326564970298526,Bowery's Whitehouse Hotel,0.9416788156480196,Candy Hostel,0.9416788156480196
+3,488793,Solita Soho Hotel,Sohotel,0.9120820791947325,NoMo SoHo Hotel,0.9166775152422947,Sheraton Tribeca New York Hotel,0.9186575077094415
+4,1028569,Greenwich Hotel,Crosby Street Hotel,0.8533367920167303,Four Seasons Hotel New York Downtown,0.878195733492944,Baccarat Hotel & Residences New York,0.884484368874396
+5,1383001,Comfort Inn Manhattan Bridge,Heart of Harlem,0.9309934440657646,Chelsea Art Suites,0.9351796276447836,Easyliving-harlem,0.9402385695332803
+6,1733337,Sutton Court Hotel Residences,Hotel Alexander,0.8556624327025936,AKA Sutton Place,0.9046537410754407,Dharma Home Suites JC At Exchange Place,0.9454455274410019
+7,1776857,The Langham New York Fifth Avenue,Loews Regency New York Hotel,0.8392721224744752,The Towers at Lotte New York Palace,0.8454426525821025,Four Seasons Hotel New York Downtown,0.8469066840050092
+8,2643161,The NoMad Hotel New York,Gramercy Park Hotel,0.8775127682825062,The James New York-NoMad,0.9060242653690566,"The Beekman, A Thompson Hotel",0.9148615500601001
+9,7148761,Cassa Hotel Times Square,Cassa Hotel NY 45th Street,0.8379118203053784,YOTEL New York,0.9218579945542544,Cachet Boutique,0.9381715977664689
+10,7379289,Brooklyn Hostel - Utica Avenue,YOTEL New York,1.0,Times Square Beds,1.0,Novotel New York Times Square,1.0
+11,8541913,Renaissance New York Midtown Hotel,Renaissance New York Times Square Hotel,0.8553702088398627,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.9158122202063751,"The Algonquin Hotel Times Square, Autograph Collection",0.936595312681727
+12,9608281,Sago Hotel,PUBLIC,0.8990203933753893,The Ludlow New York City,0.9086045222500951,Hotel on Rivington,0.9126039311212217
+13,10036825,Interfaith Retreats,Private Room in Time Square,0.8958841587409293,Oakwood 24 East 38th Street,0.9098330365332568,Chelsea Cabins,0.9116547791401227
+14,15646553,Kennedy Suites,Travelodge by Wyndham Jersey City,0.6220355269907728,Rodeway Inn,0.683772233983162,Pelican New Jersey Residences,0.7113248654051871
+15,15697497,Studio Apartments,Four Seasons Hotel New York Downtown,0.9503708333014534,The Langham New York Fifth Avenue,0.9594112520765901,citizenM New York Times Square,0.9645336548934046
+16,93612,Shoreham,Park Lane Hotel,0.9461833214083498,YOTEL New York,0.9483963240317249,Hudson New York,0.9516731602753373
+17,252972,Lafayette International Hostel,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+18,260396,The Amsterdam Inn,The Vanderbilt YMCA,0.950852681281701,Jazz on Columbus Circle,0.9527544408738466,Chelsea International Hostel,0.9574371734620626
+19,292140,Sohotel,Hotel Mulberry,0.9078263350181089,Solita Soho Hotel,0.9120820791947325,Soho 54,0.9215589762891702
+20,295340,Days Inn by Wyndham Brooklyn,Comfort Inn Brooklyn City Center,0.8456966500379081,Oyo Bed & Breakfast,0.8456966500379081,Days Inn by Wyndham Brooklyn Borough Park,0.850303762286976
+21,4762540,The Brooklyn Experience,"Brooklyn Way Hotel, BW Signature Collection",0.9230769230769231,The Brooklyn,0.9432952022876258,SoHo Garden Hotel,0.9490352808562375
+22,7363884,NobleDEN Hotel,Hotel 50 Bowery NYC,0.8650361882555387,Q&A Residential Hotel,0.8842321038469593,414 Hotel,0.8956919503897107
+23,7816364,Executive Hotel LeSoleil,Hilton Garden Inn New York/West 35th Street,0.9422322059165105,YOTEL New York,0.9453376494908791,Avalon Hotel,0.9517662941362859
+24,10345260,Dharma Home Suites JC at Paulus Hook,Dharma Home Suites JC At Exchange Place,0.6814034535678452,Downtown Luxury Collection,0.8377785788692375,Dharma Home Suites JC at Grove Station,0.8675467642934956
+25,11640620,Hotel Park 79,Apartments Upper West Side,0.6464466094067263,Little Apple Manhattan Inn,0.75,Third Ave House,0.7958758547680684
+26,15035436,Be Local Chinatown,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+27,93344,The Watson Hotel,Hotel Pennsylvania,0.8489880503685574,The New Yorker a Wyndham Hotel,0.8842273234964413,Hudson New York,0.8888701727025922
+28,122016,The Gracie Inn,Courtyard New York Manhattan/Midtown East,0.950852681281701,Holiday Inn Manhattan - Financial District,0.957321040022368,TRYP New York City Times Square South,0.9594112520765901
+29,216224,Baisley House Bed and Breakfast,International Student Center,0.8639172365120457,Central Park Studios at Lexington Ave. Co.,0.8686935671402775,American Dream Hostel,0.8837523612561807
+30,646432,Signature Suites 455 Inn,Four Points by Sheraton Manhattan Midtown West,0.8968578753741206,Radio City Apartments,0.9533239971990664,Crowne Plaza HY36 Midtown Manhattan,0.9789648419044165
+31,651552,Park Slope Bed & Breakfast,Arlington Place Bed and Breakfast,0.7278344730240913,Urban Cowboy B&B,0.7891814893221081,Rugby Gardens B&B,0.8333333333333334
+32,675616,The Plaza,"The Ritz-Carlton New York, Central Park",0.8218622872422209,The St. Regis New York,0.823226180146447,The Peninsula New York,0.8265269996916575
+33,1218720,"The Standard, High Line",Gansevoort Meatpacking NYC,0.8427131591138995,"The Standard, East Village",0.8438058524052077,Dream Downtown,0.8622986049462824
+34,1456416,The Dominick Hotel,The James New York - SoHo,0.8479204939130376,SIXTY SoHo,0.8516557819721521,Royalton Park Avenue,0.884263655687155
+35,1508000,A Cozy Mountain Rest Guest House,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+36,1947936,Soho Bed and Breakfast,Thomas Family B&B,0.5527864045000421,Bubba and Bean (BB) Lodges,0.8585786437626906,A Garden In Chelsea,0.8740118423302576
+37,5535264,The Pier,Holiday Inn Express & Suites Jersey City North - Hoboken,0.9160818641703311,The Westin Jersey City Newport,0.921913119055697,Candlewood Suites Jersey City,0.9250468311004139
+38,6582176,Park Hyatt New York,"Mandarin Oriental, New York",0.8174481843403439,Four Seasons Hotel New York,0.8265993391089199,"The Ritz-Carlton New York, Central Park",0.8339876363700202
+39,14183968,Days Inn by Wyndham Brooklyn Borough Park,Days Inn by Wyndham Brooklyn Marine Park,0.7427521222862368,La Quinta Inn & Suites Brooklyn East,0.7942016978289894,Townhouse on Greene Guest House,0.8285014148574912
+40,93437,Hotel Edison Times Square,The New Yorker a Wyndham Hotel,0.797903826521188,The Manhattan at Times Square Hotel,0.8109067724651614,Row NYC Hotel,0.8156170692398943
+41,93565,Hotel Stanford,The Hotel @ Fifth Avenue,0.9044525872125582,The Wolcott Hotel,0.9244056106846266,Hotel Pennsylvania,0.926608523095534
+42,121981,Americana Inn,Hotel 31,0.8874234716665809,Royal Park Hotel,0.9006899095105618,Hotel Pennsylvania,0.9036694713969382
+43,247805,Ramada by Wyndham Jersey City,Holiday Inn Express & Suites Jersey City North - Hoboken,0.7221954265073307,Candlewood Suites Jersey City,0.7518732641971785,The Holland Hotel,0.7640672238913019
+44,673661,Sun Bright Hotel,Big Apple Hostel,0.8456966500379081,Hotel Carter,0.8885443574849294,World Hotel,0.896165173669767
+45,1529213,Avenue Plaza Hotel,Comfort Inn Brooklyn,0.8663693790437879,BEST WESTERN Gregory Hotel,0.9101973489866125,Giorgio Hotel,0.9306624754718463
+46,1540349,West 46th Street Apartment,Bridgestreet 85 John Street,0.5527864045000421,The Pina - A Private Residence Hotel,0.5527864045000421,United Nations Apartment Hotel,0.7418011102528388
+47,1553789,World Center Hotel,"Club Quarters Hotel, World Trade Center",0.7760616871713945,"Club Quarters Hotel, Wall Street",0.8959190758424408,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.9229628784228655
+48,1930621,Harlem Grand,Candy Hill Harlem,0.8663693790437879,Garden Green Bed and Breakfast,0.8663693790437879,Easyliving-harlem,0.8804771390665607
+49,2323069,Sacred Heart Residence,House of the Redeemer,0.5635642195280153,Alma Mathews House,0.6220355269907728,Village Guest House,0.8110177634953863
+50,99327,Fitzpatrick Grand Central,Fitzpatrick Manhattan Hotel,0.8062670200186155,"Club Quarters Hotel, Grand Central",0.937415434386759,The Iroquois New York,0.9486102481541495
+51,1207039,Elegant Retreats,Times Square World,0.75,Aloft New York Midtown,0.7642977396044842,Time Square Apartments,0.9028714137642736
+52,1234559,Holiday Inn New York City - Wall Street,Holiday Inn Express New York City-Wall Street,0.9217868924532899,Holiday Inn Manhattan - Financial District,0.9268316506313639,Elk Hotel,0.9340619526604212
+53,1903743,East Village Suites,Saint Marks Place Studio Apartments,0.5917517095361369,Chelsmore Apartments,0.8769085090206672,Days Inn by Wyndham Brooklyn Borough Park,0.9299859957985995
+54,7250943,The Evergreen Hostel,Hotel 50 Bowery NYC,1.0,Heart of Harlem,1.0,Times Square Beds,1.0
+55,10476799,Cesar Suites at Southampton,Heart of Harlem,1.0,Hotel 50 Bowery NYC,1.0,Times Square Beds,1.0
+56,15307647,Splendid Apartment by Times SQ,Heart of Harlem,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+57,224221,Library Hotel by Library Hotel Collection,Casablanca Hotel by Library Hotel Collection,0.6649695907201849,Hotel Giraffe by Library Hotel Collection,0.6798051736182071,Hotel Elysee by Library Hotel Collection,0.7828960419510422
+58,1206493,388 Bergen House,Hotel Olcott,0.7327387580875757,Times Square West Hostel,0.75,Living Manhattan,0.803883864861816
+59,1497821,NY Oyado,The One Hundred,0.7642977396044842,Prive,0.8333333333333334,Hyatt Herald Square New York,0.9557192557229952
+60,1738973,Soldiers Sailors Marines Club,Pelican New Jersey Residences,0.9398070734571153,The Vanderbilt YMCA,0.9487603781748879,The Quiet Inn on Central Park,0.9494278262575826
+61,6701149,Midtown West Hotel,Elk Hotel,0.8984653834866381,Oakwood at Longacre House,0.8984653834866381,Manhattan Lodging,0.8984653834866381
+62,7144541,255West Guesthouse,The International Cozy Inn,0.8399478263433449,Soul Food Mont Morris,0.8814763027685559,Soho Bed and Breakfast,0.8963048305269574
+63,7930077,Upper East Side Apartments,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+64,9809501,My City House,City Rooms NYC Chelsea,0.932115576669787,Canal Loft Hotel,0.9417777490260418,Chelsea Inn - 17th Street,0.944529980377477
+65,11014365,Residence Inn by Marriott Jersey City,DoubleTree by Hilton Hotel & Suites Jersey City,0.6942955392065359,Candlewood Suites Jersey City,0.7008513621506935,Hyatt Regency Jersey City,0.7015839294440953
+66,12675805,MADE Hotel,Arlo NoMad,0.8607030213035887,Arlo SoHo,0.9070166852839888,Hotel 50 Bowery NYC,0.9113113805480444
+67,15698525,Deedee's Lofts at Grove,Deedee's Lofts At Grove II,0.0,Skyline Luxury Home Suites At Newport II,0.6220355269907728,Hyatt House Jersey City,0.9160818641703311
+68,93340,Hotel Elysee by Library Hotel Collection,Deedee's Lofts At Grove II,0.0,Skyline Luxury Home Suites At Newport II,0.6220355269907728,Hyatt House Jersey City,0.9160818641703311
+69,294812,Signature SoHo Suites,Library Hotel by Library Hotel Collection,0.7828960419510422,Hotel Giraffe by Library Hotel Collection,0.8226033198290619,Casablanca Hotel by Library Hotel Collection,0.8257325170212809
+70,671388,Quality Inn Long Island City,Hotel Wales,0.9079425382101677,Cambria Hotel New York - Times Square,0.948835548990335,Hotel Elysee by Library Hotel Collection,0.9548706317593476
+71,1783324,Sheraton Tribeca New York Hotel,Sleep Inn - Long Island City,0.8586571457705363,Ramada by Wyndham Long Island City,0.863037652706327,Super 8 by Wyndham Long Island City LGA Hotel,0.8927202190221772
+72,8298268,Cesar Suites at River Court,Hilton Garden Inn New York/Tribeca,0.8943866228592301,Four Points by Sheraton Manhattan SoHo Village,0.909742853669987,Solita Soho Hotel,0.9186575077094415
+73,13946524,Washington Street Apartments at Marbella,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+74,122020,Chelsea Pines Inn,Downtown Luxury Collection,0.591751709536137,BridgeStreet The Monaco,0.7113248654051871,Kensho homes,0.7113248654051871
+75,650532,Jazz on the City Hostel,Colonial House Inn,0.903851259658198,Hotel Mulberry,0.9165325472796073,The GEM Hotel Chelsea,0.9183947408545521
+76,1508132,The West Townhouse,Chelsea Cabins,0.9,The Local NYC,0.9063414188418306,Broadway Hotel and Hostel,0.9451178700051548
+77,2173604,Dream Downtown,Easyliving-harlem,0.746453723581445,Fit Hotel,0.7817821097640076,Kore Properties 83,0.8110177634953863
+78,6217892,Flushing Motel,"The Standard, High Line",0.8622986049462824,Gansevoort Meatpacking NYC,0.870998942907934,The Maritime Hotel,0.9004300103776537
+79,11236004,Doubletree by Hilton New York Times Square West,Courtyard Long Island City/New York Manhattan View,0.9172394111397633,Red Lion Inn & Suites Long Island City,0.921913119055697,Nesva Hotel,0.9299859957985995
+80,13946532,Hudson Street Apartments at Liberty Towers,DoubleTree Suites by Hilton Hotel New York City - Times Square,0.829753203951978,Doubletree By Hilton - Times Square South,0.837547958419284,DoubleTree by Hilton Hotel Metropolitan - New York City,0.8459374356461836
+81,14010788,"The Hoxton, Williamsburg",BridgeStreet Liberty Towers,0.6464466094067263,Global Luxury Suites at Newport,0.7763932022500211,Harlem 144 Guest House,0.8232233047033631
+82,93346,Salisbury Hotel,The Williamsburg Hotel,0.6770180291125171,Wythe Hotel,0.7515290663315952,The William Vale,0.7678226744669577
+83,142114,Days Inn by Wyndham Hotel New York City-Broadway,Belvedere Hotel,0.9160546540741289,Wellington Hotel,0.9167714347758539,The Manhattan at Times Square Hotel,0.927881251665145
+84,216226,Garden Green Bed and Breakfast,Royal Park Hotel,0.8406126560723046,Marrakech Hotel on Broadway,0.8638972369008623,Hotel Newton,0.8905438933320193
+85,261410,Bowery's Whitehouse Hotel,J-Stel,0.6464466094067263,Serenity at Home Guest House LLC,0.683772233983162,Hotel Bliss,0.6984886554222364
+86,290978,Hotel St. James,Serene Homes E25,0.7113248654051871,A & Faye Bed and Breakfast,0.7113248654051871,Chelsea Inn - 11th Avenue,0.8174258141649446
+87,568866,The Loralei B&B,Mayfair Hotel,0.9083376180052034,Chelsea Inn - 17th Street,0.9184625751672789,Hotel Pennsylvania,0.9215246590083136
+88,601762,Blue Moon Hotel,At Home In Brooklyn,0.5370899501137242,The Blue Porch Bed & Breakfast,0.5959389821791157,Bibi's Garden Bed and Breakfast,0.6220355269907728
+89,1878946,Aloft Harlem,Hotel Pennsylvania,0.8142947920236813,Pod 51 Hotel,0.8419662034995363,The New Yorker a Wyndham Hotel,0.8702611667616205
+90,3236642,Holiday Inn NYC - Lower East Side,Michael,0.9063414188418306,The Lucerne Hotel,0.9225642255858912,Comfort Inn Times Square West,0.9250731350734644
+91,3613090,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,Orchard Street Hotel,0.9468505996547266,Serene Homes E25,0.9468505996547266,The Allen Hotel,0.9472158919582804
+92,10541730,Arlo NoMad,Fairfield Inn & Suites New York Manhattan/Times Square,0.8144790108007013,Fairfield Inn & Suites New York Manhattan/Chelsea,0.8333401916205475,Courtyard New York Manhattan/Chelsea,0.9068656550440004
+93,10679074,LUMA Hotel Times Square,Arlo SoHo,0.7907226856643753,MADE Hotel,0.8607030213035887,Hotel 50 Bowery NYC,0.8900841923686783
+94,13946530,Washington Street Apartments at Monaco,citizenM New York Times Square,0.9043249598965801,The Time New York,0.9180045770465036,The Knickerbocker Hotel,0.9202087725794919
+95,15751330,Jersey City Waterfront At The Pier - A Premier Furnished Apartment,Churchill At Marbella,0.5527864045000421,Deedee's Downtown Flats,0.6837722339831621,Washington Street Apartments at Marbella,0.7418011102528388
+96,93345,Skyline Hotel,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+97,1161761,Archstone East 39th,The Watson Hotel,0.9114673588371643,Room Mate Grace,0.918148305397659,Hudson New York,0.9269891813371806
+98,1626017,MiHostel,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+99,2075681,Union Hotel,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+100,7177505,Midwood Suites,Gowanus Inn and Yard,0.7104669879282068,Hotel BPM Brooklyn,0.8521557458090854,Townhouse on Greene Guest House,0.8556624327025936
+101,208452,Conrad New York,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+102,1199940,East Bridge,"The Beekman, A Thompson Hotel",0.8892342323769041,The Langham New York Fifth Avenue,0.8921372144652137,The Wagner at the Battery,0.9084943732448705
+103,1626052,Loftstel Williamsburg,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+104,1638724,Shkolnick Motel,Wythe Hotel,0.9440983005625052,Aloft New York Brooklyn,0.9440983005625052,Hotel Indigo,0.947000105999682
+105,1819972,Little Apple Manhattan Inn,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+106,1986116,Hotel Vetiver,Chic&Budget New York,0.6837722339831621,Collective Governors Island,0.75,Hotel Park 79,0.75
+107,6482500,Residences at 51st Street and 7th Avenue,The Paper Factory Hotel,0.776181028312957,Queens County Inn and Suites Long Island City,0.8162118572348844,Holiday Inn L.I. City - Manhattan View,0.8333281890622496
+108,8482500,Jazz on Columbus Circle,La Belle Etoile Hostel,0.7418011102528388,Metro Apartments,0.7763932022500211,Jumel Terrace Bed and Breakfast,0.8845299461620748
+109,8664004,Arlington Place Bed and Breakfast,Jazz on the Park,0.8388354071949239,Hostelling International - New York,0.8644516478658284,Chelsea Cabins,0.8663693790437879
+110,12596548,Hyatt Place Long Island City / New York City,Inn on Second,0.4999999999999999,At Home In Brooklyn,0.5285954792089682,The Blue Porch Bed & Breakfast,0.5370899501137243
+111,98276,DoubleTree by Hilton Hotel & Suites Jersey City,Hilton Garden Inn Long Island City Queensboro Bridge,0.7374660814337648,Aloft Long Island City - Manhattan View,0.779734827057287,Home2 Suites by Hilton New York Long Island City/ Manhattan View,0.780552402252273
+112,235236,Oakwood Cosmopolitan,The Westin Jersey City Newport,0.6642852865870641,Candlewood Suites Jersey City,0.6777578856752666,Hyatt Regency Jersey City,0.6840892982222906
+113,284132,Akwaaba Mansion Bed & Breakfast,102 Brownstone,0.6464466094067263,Akwaaba Mansion Bed & Breakfast,0.8333333333333334,The Gatsby Hotel,0.8979379273840342
+114,1196772,Lefferts Manor Bed & Breakfast,Inn on Second,0.7958758547680684,At Home In Brooklyn,0.8075499102701247,The Blue Porch Bed & Breakfast,0.8110177634953863
+115,1930980,The Condor Hotel,Rugby Gardens B&B,0.825628541884271,NY Moore Hostel,0.8322109861964939,Inn on Second,0.8576263006371252
+116,3226212,Fairfield Inn & Suites New York Queens/Queensboro Bridge,The Brooklyn,0.785085584822377,Hotel Le Jolie,0.8119306774962824,Hotel Le Bleu,0.8291929442270874
+117,5786212,Hilton Garden Inn New York/Central Park South-Midtown West,Hilton Garden Inn Long Island City Queensboro Bridge,0.7539473892385307,Hyatt Place Long Island City / New York City,0.7937269708649176,Courtyard Long Island City/New York Manhattan View,0.7988442246837093
+118,5960548,Hilton Garden Inn New York/Manhattan-Midtown East,Hilton Garden Inn Times Square,0.882854249953544,New York Hilton Midtown,0.8942190019561376,Hilton Garden Inn New York/West 35th Street,0.8978725265056198
+119,7106532,Howard Johnson by Wyndham Long Island City,Hilton Garden Inn New York/Midtown Park Ave,0.908222112723206,Hilton Garden Inn New York/West 35th Street,0.9237263992034404,Hilton Garden Inn Times Square,0.9305971412056405
+120,14450788,The Yale Club,Queens County Inn and Suites Long Island City,0.7621221097482396,La Quinta Inn Queens (New York City),0.7976373895587083,Ramada by Wyndham Long Island City,0.8061782545046405
+121,15521252,Racpanos Modern Stay On Ocean Avenue,Hyatt Union Square New York,0.9606250384520921,Hilton Brooklyn New York,0.9653935729897009,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.9661938298108593
+122,93334,Excelsior Hotel,Racpanos Modern Stay on Union Street,0.5,Racpanos Modern Stay on Forrest Street,0.6464466094067263,BridgeStreet Liberty Towers,0.6464466094067263
+123,93462,InterContinental New York Barclay,Hotel Belleclaire,0.8625615947396054,The Lucerne Hotel,0.8747213962907499,Arthouse Hotel New York City,0.8799942808411663
+124,217622,Dylan Hotel NYC,InterContinental New York Times Square,0.813147670329085,Parker New York,0.8739916373493453,Lotte New York Palace,0.8850781091186926
+125,225942,Park South Hotel,Beekman Apartments,0.9342048305040231,"Club Quarters Hotel, Times Square -Midtown",0.9415821452943351,"The Renwick Hotel New York City, Curio Collection by Hilton",0.9438581771270314
+126,1186070,"Marriott Vacation Club Pulse, New York City",The James New York-NoMad,0.9300711340268105,The Lex NYC,0.9317112351232758,The Evelyn,0.9384723284820878
+127,1937558,At Home In Brooklyn,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.9022972370265268,A accomodation B&B,0.9239714078730294,"The Lexington Hotel, Autograph Collection",0.9375345243329631
+128,2253206,TRYP New York City Times Square South,Bibi's Garden Bed and Breakfast,0.18350341907227397,Inn on Second,0.2928932188134523,Arlington Place Bed and Breakfast,0.5285954792089682
+129,6420118,NY City Stay Upper East Side,The New Yorker a Wyndham Hotel,0.9112813588720651,Stewart Hotel,0.9201741454165635,EVEN Hotel Times Square South,0.9259525169913111
+130,7906966,The Melva Inn,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+131,12697494,The Quincy Guesthouse,Churchill at 15 Park Row,0.8203946979732251,National at Park Towers,0.8729998729998095,Broadway Tower,0.8963048305269574
+132,13275030,The Ultimate,Hotel Richland New York,0.6666666666666665,The Fairview,0.8639172365120457,Gowanus Inn and Yard,0.9109129193625252
+133,93338,Hotel Beacon,Quality Inn,0.6464466094067263,Victorian Inn,0.8110177634953863,Times Square West Hostel,0.8232233047033631
+134,93466,DoubleTree by Hilton Hotel Metropolitan - New York City,The Lucerne Hotel,0.8511644580196119,Arthouse Hotel New York City,0.8825221809184092,Hotel Belleclaire,0.8943557676890683
+135,99354,Moderne Hotel,Doubletree by Hilton New York Times Square West,0.8459374356461836,DoubleTree Suites by Hilton Hotel New York City - Times Square,0.8684464600144078,Westgate New York City,0.9091034153929719
+136,217626,The Benjamin,Ameritania Hotel,0.8733282141123095,"6 Columbus, Central Park a Sixty Hotel",0.9304286449783515,Hilton Garden Inn New York/Central Park South-Midtown West,0.9410595619509972
+137,264986,Chelsea International Hostel,Lotte New York Palace,0.9144433944543137,InterContinental New York Barclay,0.9249010174294947,Omni Berkshire Place,0.9311917593237168
+138,584986,Citadines Connect Fifth Avenue New York,The Vanderbilt YMCA,0.8410194910927116,American Dream Hostel,0.8515651575010601,West Side YMCA,0.8711378353074921
+139,737178,New York Presbyterian Guest Facility,The Hotel at Times Square,0.9322965685189387,The Hotel @ Fifth Avenue,0.9330807112350028,Cambria Hotel New York - Times Square,0.9379000598584917
+140,1229210,The One Hundred,Alma Mathews House,0.7763932022500211,The West Townhouse,0.8309691490542968,Furnished Dwellings,0.841886116991581
+141,1957274,AllCity at 50 Columbus,Prive,0.7642977396044841,NY Oyado,0.7642977396044842,Brooklyn Suites,0.882148869802242
+142,3695770,Lxure,YOTEL New York,1.0,Times Square Beds,1.0,Hotel 50 Bowery NYC,1.0
+143,8035866,Hampton Inn Manhattan / Times Square Central,Heart of Harlem,1.0,YOTEL New York,1.0,Hotel 50 Bowery NYC,1.0
+144,9453978,Courtyard Long Island City/New York Manhattan View,Hampton Inn Manhattan-Times Square North,0.7741389265596754,Hampton Inn Manhattan/Times Square South,0.8478255892666207,Hilton Garden Inn Times Square,0.8622892173267523
+145,10438682,"The Vue, an Ascend Hotel Collection Member",Hyatt Place Long Island City / New York City,0.7904322581140255,Aloft Long Island City - Manhattan View,0.7962146258165856,Fairfield Inn & Suites New York Queens/Queensboro Bridge,0.7988442246837093
+146,11642010,Aloft Long Island City - Manhattan View,Howard Johnson by Wyndham Long Island City,0.8582664862807341,Super 8 by Wyndham Long Island City LGA Hotel,0.8646979817016524,LIC Hotel,0.8957201209679264
+147,99388,The Hotel @ New York City,The Paper Factory Hotel,0.7730354021810422,Hilton Garden Inn Long Island City Queensboro Bridge,0.7738113529155557,Hyatt Place Long Island City / New York City,0.779734827057287
+148,1200188,Brooklyn Suites,The Hotel @ Fifth Avenue,0.8847216100709985,The Hotel at Times Square,0.8868010784119877,The Marcel at Gramercy,0.9470031440263389
+149,80110,The Roger,Worldwide Plaza,0.6464466094067263,Carroll Gardens House,0.6464466094067263,Downtown Athletic Center,0.6464466094067263
+150,249710,Morningside Inn,Arlo NoMad,0.8935265951793075,The James New York-NoMad,0.8967623449667452,Mondrian Park Avenue,0.9156004284890445
+151,298606,Chelsea Center Hostel,Royal Park Hotel,0.7280889789887726,Broadway Hotel and Hostel,0.7669850533246817,U.S. Pacific Hotel,0.8164867655821004
+152,589294,Rodeway Inn,Mount Royal Hotel & Hostel,0.6220355269907728,Chelsea International Hostel,0.9148743469241252,Leo House,0.9319586182560229
+153,1485678,Queens County Inn and Suites Long Island City,Econo Lodge Jersey City,0.683772233983162,Kennedy Suites,0.683772233983162,Travelodge by Wyndham Jersey City,0.7609542781331213
+154,1806062,Cassa Hotel NY 45th Street,La Quinta Inn Queens (New York City),0.6991322981432472,Best Western Plus Plaza Hotel,0.707826343681047,Howard Johnson by Wyndham Long Island City,0.7621221097482396
+155,2060398,Pointe Plaza Hotel,Cassa Hotel Times Square,0.8379118203053784,Paramount Hotel New York,0.9597156230789161,Royalton New York Hotel,0.9598565379962807
+156,2109422,Design Dream,Bogart Hotel,0.8514583633815129,BKLYN House,0.8562363418036762,The Condor Hotel,0.8570516620216273
+157,4232686,Viceroy Central Park New York,Comfort Inn Brooklyn,0.591751709536137,Park Slope Inn,0.6837722339831621,Broadway Suite,0.8921672267965616
+158,4409070,Gabbs Bed & Breakfast,WestHouse Hotel New York,0.8616231015553318,Parker New York,0.8694327219227567,The Quin Central Park by Hilton Club,0.8724593080278558
+159,6420206,Residence Suites,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+160,10533358,Carnegie Hotel,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.9244071053981545,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.9511468031253969,Residence Inn New York Manhattan / Midtown East,0.9519430668667788
+161,12280686,Days Inn by Wyndham Brooklyn Crown Heights,WestHouse Hotel New York,0.9123260644373622,West 57th Street by Hilton Club,0.9251644574888438,The Blakely New York,0.9370440773244173
+162,15274350,Interfaith East Village,Days Inn by Wyndham Brooklyn Marine Park,0.882148869802242,Quality Inn Near Sunset Park,0.9183503419072274,Hotel RL Brooklyn,0.9241901956421097
+163,93382,Washington Square Hotel,Serenity at Home Guest House LLC,0.8881966011250105,Hotel Bliss,0.8933996418221948,Sleep Inn Coney Island,0.9166666666666666
+164,208454,Sofitel New York,Walker Hotel Greenwich Village,0.7837504780941253,The Marlton Hotel,0.78531686358957,Hyatt Union Square New York,0.9124386772629574
+165,1058246,Central Park Studios at Lexington Ave. Co.,Novotel New York Times Square,0.9086663726707995,Lotte New York Palace,0.9140860655877704,The Iroquois New York,0.9332375723847318
+166,1164614,Third Ave House,Harlem Lofts,0.8686935671402775,Churchill at 15 Park Row,0.8686935671402775,Baisley House Bed and Breakfast,0.8686935671402775
+167,1605446,Apt 168,Apartments Upper West Side,0.42264973081037416,U Hotel,0.6666666666666665,The Sutton Residence,0.7113248654051871
+168,1719750,Macy's Apartments,Furnished Dwellings,0.6464466094067263,Oakwood 24 East 38th Street,0.7113248654051871,The Village House NY,0.8110177634953863
+169,2154438,Community Be Good Guesthouse,Thomas Family B&B,0.717157287525381,Third Ave House,0.8174258141649446,U Hotel,0.8174258141649446
+170,3583686,Residence Inn New York Manhattan / Midtown East,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+171,8857286,59th Street Bridge Suites,Residence Inn New York Manhattan/Central Park,0.8611110435827996,Residence Inn New York Manhattan/Times Square,0.8763977499630805,Residence Inn New York Downtown Manhattan World Trade Center Area,0.8836584837286034
+172,11854022,Crowne Plaza HY36 Midtown Manhattan,Churchill Suites East Side,0.591751709536137,Furnished Quarters Newport,0.6464466094067263,Oakwood at 777 6th Avenue,0.7642977396044842
+173,15632326,Harlem Lofts,Crowne Plaza Times Square Manhattan,0.8167054935640695,Hotel 50 Bowery NYC,0.8168416854459255,EVEN Hotel Times Square South,0.8283977795447381
+174,93581,The Inn at Irving Place,Central Park Studios at Lexington Ave. Co.,0.8686935671402775,255West Guesthouse,0.8963048305269574,Seafarers & International House,0.9268727575872869
+175,234765,Oakwood Ocean At 1 West Street,W New York - Union Square,0.9143011037261174,Hotel Cliff,0.9262790219225514,Walker Hotel Greenwich Village,0.9293881094252074
+176,254605,Hotel Shocard at Times Square,San Carlos Hotel,0.9401315659910751,CitizenM New York Bowery,0.9422649730810374,The Pearl Hotel,0.9506135201675205
+177,504589,American Dream Hostel,Aloft Harlem,0.9255515139891675,Seton Hotel,0.9345061511497078,Pod Times Square,0.938435523621346
+178,1147661,National at Park Towers,Chelsea International Hostel,0.8515651575010601,International Student Center,0.8734456005663335,Baisley House Bed and Breakfast,0.8837523612561807
+179,1235341,Carvi Hotel New York,Churchill at 15 Park Row,0.29289321881345254,Broadway Tower,0.591751709536137,The Melva Inn,0.8729998729998095
+180,1762573,Andaz 5th Avenue,Westgate New York City,0.9375126067541211,Hudson New York,0.9427767901369499,AKA Sutton Place,0.9453301542906154
+181,3533197,Hyatt Union Square New York,Andaz Wall Street,0.9040723275204754,Park Hyatt New York,0.9062778561884027,The Langham New York Fifth Avenue,0.9238960976436064
+182,7182733,THE PAUL NYC- Hotel New York City,Walker Hotel Greenwich Village,0.8628471823680003,W New York - Union Square,0.8697292863651851,The Marlton Hotel,0.903701784159951
+183,7202189,Hilton Garden Inn Long Island City Queensboro Bridge,Flatiron Hotel,0.9522839248181905,Hudson New York,0.9523151026824287,Westgate New York City,0.955164311059044
+184,9739021,Choice International Double Rooms,Home2 Suites by Hilton New York Long Island City/ Manhattan View,0.7181493948023352,Hyatt Place Long Island City / New York City,0.7374660814337648,Fairfield Inn & Suites New York Queens/Queensboro Bridge,0.7539473892385307
+185,12273805,The Rockaway House Hotel,Heart of Harlem,1.0,Safehouse Suites,1.0,Times Square Beds,1.0
+186,247814,The Gatsby Hotel,Hotel 50 Bowery NYC,1.0,Heart of Harlem,1.0,Times Square Beds,1.0
+187,288646,New York Connection Youth Hostel,Orchard Street Hotel,0.8376202367904177,The Ridge Hotel,0.8934983915962177,Chelsea Center East,0.8979379273840342
+188,313862,Soho House New York,The Local NYC,0.8675467642934956,NY Moore Hostel,0.9037749551350623,Chelsea International Hostel,0.9148743469241252
+189,10846086,Four Points by Sheraton Manhattan Midtown West,Village Apartments,0.8740118423302576,Walker Hotel Greenwich Village,0.9232030472426294,"The Standard, High Line",0.9264585413922692
+190,93421,Hotel Carter,Signature Suites 455 Inn,0.8968578753741206,Courtyard New York Manhattan/Midtown west,0.8968578753741206,Four Points by Sheraton Midtown - Times Square,0.9276193343409093
+191,1214829,Doubletree Hotel Chelsea - New York City,Sun Bright Hotel,0.8885443574849294,Senton Hotel,0.9148743469241252,World Hotel,0.9189891590114618
+192,1308397,West 57th Street by Hilton Club,Hilton New York Fashion District,0.8496158764517191,Hilton Garden Inn New York/Manhattan-Chelsea,0.8775425196632752,"Martinique New York on Broadway, Curio Collection by Hilton",0.9094071155825652
+193,1732589,Sleep Inn Brooklyn Downtown,The Hilton Club - New York,0.8048199854102935,The Residences by Hilton Club,0.8298965456400571,The Quin Central Park by Hilton Club,0.838778211344738
+194,1762669,Best Western Plus Arena Hotel,La Quinta Inn & Suites Brooklyn East,0.8114381916835873,The Vue Express @ 39th Street,0.850928801500014,Hotel Bliss,0.8578661890962597
+195,2258669,Hotel BPM Brooklyn,"Brooklyn Way Hotel, BW Signature Collection",0.8359994489572228,Best Western Plus Brooklyn Bay Hotel,0.8437203216788131,Pointe Plaza Hotel,0.8759354386135372
+196,93364,Hotel Deauville,Union Hotel,0.8521557458090854,NY Moore Hostel,0.864476100324995,Bowers Luxury Condos,0.8719631200671041
+197,112052,The Mark,Prive,0.8740118423302576,The MAve Hotel,0.9154845745271484,The Jane,0.9231148255561511
+198,126260,Lotte New York Palace,The Surrey,0.789034983398301,"The Carlyle, A Rosewood Hotel",0.8104383819272589,Lowell Hotel,0.824500504560324
+199,1488820,Kore Properties - 94,The Towers at Lotte New York Palace,0.8147651804182457,Warwick New York,0.8339211882753003,The Plaza,0.880699270966571
+200,1783732,Orchard Guesthouse,Heart of Harlem,1.0,YOTEL New York,1.0,Hotel 50 Bowery NYC,1.0
+201,2439732,Cachet Boutique,Third Ave House,0.7642977396044841,U Hotel,0.7642977396044841,Comfort Inn Sunset Park / Park Slope,0.7958758547680684
+202,3721780,Residences in the Financial District,Cassa Hotel Times Square,0.9381715977664689,Four Points by Sheraton Manhattan Midtown West,0.9484289376870604,Shoreham,0.9582688836944007
+203,5483188,The Rivieria New York,Moxy NYC Downtown,0.9327327206003687,CitizenM New York Bowery,0.9422649730810374,The Marcel at Gramercy,0.9517195450414733
+204,12579252,Days Inn by Wyndham Brooklyn Marine Park,short term stay nyc,0.42264973081037416,710 Guest Suites,0.8,"Hotel Henri, A Wyndham Hotel",0.9366275749475522
+205,93457,Hampton Inn Manhattan-Times Square North,Days Inn by Wyndham Brooklyn Borough Park,0.7427521222862368,Quality Inn Near Sunset Park,0.7883049012971373,"Insignia Hotel, an Ascend Hotel Collection Member",0.8550622739089493
+206,93585,Lowell Hotel,Hampton Inn Manhattan / Times Square Central,0.7741389265596754,Hampton Inn Manhattan/Times Square South,0.8223553685706002,Hilton Garden Inn Times Square,0.8441917870410895
+207,112017,Carlton Arms Hotel,The Mark,0.824500504560324,Hotel Plaza Athenee,0.8428780910485499,The Surrey,0.8487701626342293
+208,1146129,National at the Metropolis,Saint Nicholas Inn,0.9019991744756802,Canal Loft Hotel,0.9031052727842483,The Central Park North,0.9032798416252679
+209,5427089,Phoenix Hotel,Heart of Harlem,1.0,YOTEL New York,1.0,Hotel 50 Bowery NYC,1.0
+210,11827473,Gabriel's Luxury Suite,Oyo Bed & Breakfast,0.8456966500379081,The Williamsburg Guesthouse,0.8456966500379081,Hotel Bliss,0.8684096610080462
+211,12155281,Smart Place,Pointe Plaza Hotel,0.9272607032546692,The Wall Street Inn,0.932115576669787,The Hotel 91,0.9562730530553374
+212,14120593,225 Grand,Hotel 50 Bowery NYC,1.0,Heart of Harlem,1.0,Times Square Beds,1.0
+213,14915217,Residence Inn Weehawken Port Imperial,Hotel 50 Bowery NYC,1.0,Heart of Harlem,1.0,Times Square Beds,1.0
+214,217616,Kimpton Muse Hotel,Residence Inn by Marriott Weehawken Port Imperial,0.636303516273346,Sheraton Lincoln Harbor Hotel,0.6752008228235398,W Hoboken,0.8684096610080462
+215,1544848,On the Hudson House,Kimpton Hotel Eventi,0.8565804499364862,Kimpton Ink48 Hotel,0.8663822213503819,Sanctuary Hotel New York Times Square,0.9100263154627011
+216,1676176,Comfort Inn Brooklyn,Hotel Americano,0.9394772467331197,"The Hoxton, Williamsburg",0.9596761080727244,Hudson New York,0.9623911292777699
+217,1791248,Hotel Mulberry,A accomodation B&B,0.42264973081037416,"A Hospitality Company, Inc.",0.591751709536137,Design Dream,0.591751709536137
+218,6420112,5th Avenue Suites - New York,Sohotel,0.9078263350181089,Chelsea Pines Inn,0.9165325472796073,The Leon Hotel,0.9288072814877032
+219,12004496,Pelican New Jersey Residences,The Pina - A Private Residence Hotel,0.42264973081037416,United Nations Apartment Hotel,0.6666666666666665,Sugar Hill Suites,0.7113248654051871
+220,12221584,Gowanus Inn and Yard,Travelodge by Wyndham Jersey City,0.6726731646460113,Cesar Suites At Harborside,0.7113248654051871,Kennedy Suites,0.7113248654051871
+221,93623,Trump International Hotel and Tower New York,Union Hotel,0.7104669879282068,Bowers Luxury Condos,0.8456966500379081,Holiday Inn Express Brooklyn,0.8585503510033322
+222,658359,Churchill at 15 Park Row,"Mandarin Oriental, New York",0.8650471105784476,The Plaza,0.8713426579939978,The Peninsula New York,0.8804720600115945
+223,674743,CITY ROOMS NYC SoHo,National at Park Towers,0.29289321881345254,Broadway Tower,0.42264973081037416,The Melva Inn,0.8203946979732251
+224,866615,Soho 54,City Rooms NYC Chelsea,0.9070454250970308,SoHo Garden Hotel,0.9116040000121453,Soho 54,0.9262600485653778
+225,1176247,Furnished Quarters Newport,Sohotel,0.9215589762891702,CITY ROOMS NYC SoHo,0.9262600485653778,Hilton Garden Inn New York/Tribeca,0.9275006447155514
+226,1488823,Kore Properties 73,Cesar Suites At Harborside,0.5,59th Street Bridge Suites,0.6464466094067263,Holiday Inn Express & Suites Jersey City - Holland Tunnel,0.7763932022500211
+227,7130807,Cambria Hotel New York - Chelsea,Midtown Deluxe Apartments,0.7113248654051871,Chelsea Mews Guest House,0.7642977396044841,The Village House NY,0.7817821097640076
+228,14149815,Moxy NYC Chelsea,Cambria Hotel New York - Times Square,0.8452354316457876,Stewart Hotel,0.9097438810920075,Innside by Melia New York NoMad,0.9193128469540122
+229,15327543,Townhouse on Greene Guest House,Moxy NYC Downtown,0.824106696600121,Moxy NYC Times Square,0.8496033625531056,AC Hotel by Marriott New York Times Square,0.9608224221593112
+230,15530679,Residence Inn New York Manhattan/Financial District,Days Inn by Wyndham Brooklyn Borough Park,0.8285014148574912,Union Hotel,0.8556624327025936,Giorgio Hotel,0.8613249509436927
+231,15610551,McSimon's Duplex,The MAve Hotel,0.841886116991581,Living Manhattan,0.8613249509436927,Studio-plus Apartment,0.9285714285714286
+232,80087,Best Western Plus Hospitality House,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+233,1415127,The French Quarters Guest Apartments,Oakwood at 6th Avenue,0.9248353971997171,Prospect Place Apartment - Hostel,0.9248353971997171,Gardens Suites Hotel by Affinia,0.9287621310144712
+234,1464151,Four Points by Sheraton Midtown - Times Square,414 Hotel,0.9322976673769755,Casablanca Hotel by Library Hotel Collection,0.937217423807982,The Iroquois New York,0.9464442707500534
+235,1508183,Stoney's Inn,Four Points by Sheraton New York Downtown,0.916723687262857,Four Points by Sheraton Manhattan Chelsea,0.9222724534425999,Fairfield Inn & Suites New York Manhattan/Times Square,0.926098451090773
+236,2600407,BridgeStreet Portside Towers,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+237,4799063,Hyatt Centric Times Square New York,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+238,10127191,LIC Hotel,New York Marriott Marquis,0.8722436045898777,Crowne Plaza Times Square Manhattan,0.8834587702715943,W New York - Times Square,0.8883243346695818
+239,99357,Mayfair Hotel,Best Western Plus Plaza Hotel,0.7560315185566813,The Paper Factory Hotel,0.7988929765005766,Aloft Long Island City - Manhattan View,0.8274490953311331
+240,113309,Fitzpatrick Manhattan Hotel,Americana Inn,0.9037675295036229,Hotel St. James,0.9083376180052034,Amsterdam Court Hotel,0.9104232679634174
+241,217629,3 West Club,Fitzpatrick Grand Central,0.8062670200186155,Renaissance New York Hotel 57,0.9367244867981717,The Lombardy,0.9420495219716658
+242,1155229,Royal Park Hotel,"Club Quarters Hotel, opposite Rockefeller Center",0.8894346715423826,The Jewel facing Rockefeller Center,0.9394150764514306,The Blakely New York,0.9582709830116438
+243,1174685,Aloft New York Brooklyn,Morningside Inn,0.7280889789887726,Broadway Hotel and Hostel,0.7585174610930451,The Central Park North,0.8212276269349035
+244,1203357,Chelsea Center East,Hotel Indigo,0.7807539732977604,Sheraton Brooklyn New York Hotel,0.8023576462394764,NU Hotel,0.8442360042877417
+245,1378973,Studio 75,The Allen Hotel,0.8829588528038694,The Gatsby Hotel,0.8979379273840342,Orchard Street Hotel,0.9116116523516815
+246,2225309,Dwell 76,YOTEL New York,1.0,Hotel 50 Bowery NYC,1.0,Novotel New York Times Square,1.0
+247,3371677,Liberty Harbor Marina & RV Park,Haiban Inn,0.8174258141649446,Ramada by Wyndham Jersey City,0.8829588528038694,NY Moore Hostel,0.9037749551350623
+248,8625309,Sleep Inn Coney Island,Global Luxury Suites at Newport,0.7418011102528388,Collective Governors Island,0.7958758547680684,Dharma Home Suites JC At Exchange Place,0.9109129193625252
+249,12963869,Global Luxury Suites at Newport,Harbor Motor Inn,0.7278344730240913,Comfort Inn Brooklyn,0.8110177634953863,Best Western Plus Brooklyn Bay Hotel,0.827226314883728
+250,15064989,Park West Hotel,Liberty Harbor Marina & RV Park,0.7418011102528388,Hudson Street Apartments at Liberty Towers,0.7763932022500211,Furnished Quarters Newport,0.7763932022500211
+251,15688605,Private Room in Time Square,Astor on the Park,0.9253194160142864,Central Park West Hostel,0.9281313789593918,Hudson New York,0.9447485703104719
+252,15735581,Brownstone Penthouse,Interfaith Retreats,0.8958841587409293,The Melva Inn,0.9401315659910751,Colonial House Inn,0.9509856918604128
+253,93545,The Manhattan at Times Square Hotel,Hotel 50 Bowery NYC,1.0,Heart of Harlem,1.0,Times Square Beds,1.0
+254,307945,Woogo - Central Park,The New Yorker a Wyndham Hotel,0.8097932758211512,Hotel Edison Times Square,0.8109067724651614,Row NYC Hotel,0.8325793587536232
+255,671465,Bubba and Bean (BB) Lodges,Heart of Harlem,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+256,2049257,Uchino Domitory,A Garden In Chelsea,0.8040084225975554,Easyliving-harlem,0.8102633403898973,San Fermin B&B,0.8522902108248007
+257,6696297,Henry Norman Hotel,YOTEL New York,1.0,Times Square Beds,1.0,Hotel 50 Bowery NYC,1.0
+258,12297961,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,Franklin Guesthouse,0.6611309854320677,The Box House Hotel,0.6829242094892224,Hotel Le Jolie,0.7381772600270531
+259,225883,Candlewood Suites Jersey City,DoubleTree by Hilton Hotel New York City - Financial District,0.8816483507798294,"Club Quarters Hotel, World Trade Center",0.8842036225937608,The Wall Street Inn,0.9159973118709691
+260,636123,Best Western Plus Brooklyn Bay Hotel,Holiday Inn Express & Suites Jersey City North - Hoboken,0.6100243270680654,DoubleTree by Hilton Hotel & Suites Jersey City,0.6777578856752666,Courtyard by Marriott Jersey City Newport,0.6878467110295532
+261,650459,Hotel Le Bleu,BEST WESTERN Gregory Hotel,0.7805772004794254,Comfort Inn Brooklyn,0.8040930554654981,Sleep Inn Coney Island,0.827226314883728
+262,1103707,NU Hotel,Hotel Le Jolie,0.7420666511337614,The Brooklyn,0.7763476369188168,Hampton Inn Brooklyn/Downtown,0.7941859585063485
+263,1879003,Four Points by Sheraton Long Island City Queensboro Bridge,Hotel Indigo,0.7932501966337373,EVEN Hotel Brooklyn,0.8029553405118297,The Tillary Hotel,0.8144588220779416
+264,2340315,Hotel Indigo,Aloft Long Island City - Manhattan View,0.8171971676309727,Courtyard Long Island City/New York Manhattan View,0.8230504179184764,Hyatt Place Long Island City / New York City,0.8234530340990501
+265,2590171,BridgeStreet Liberty Towers,EVEN Hotel Brooklyn,0.7435590644955397,The Tillary Hotel,0.7806188271852396,Aloft New York Brooklyn,0.7807539732977604
+266,3241819,Royal Suites Manhattan,Downtown Luxury Collection,0.5000000000000001,M Suites at Newport,0.6464466094067263,Hudson Street Apartments at Liberty Towers,0.6464466094067263
+267,3252315,Seven Days Suites,Harlem 144 Guest House,0.8663693790437879,TEN15NYC,0.913289003047588,Broadway Hotel and Hostel,0.9413285351151143
+268,4446427,Hotel Boutique At Grand Central,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+269,14910939,Residence Inn by Marriott Weehawken Port Imperial,"Club Quarters Hotel, Grand Central",0.8344501250977159,"Club Quarters Hotel, Times Square -Midtown",0.9002639971865656,"Club Quarters Hotel, World Trade Center",0.9416420315482718
+270,224229,Hotel Riverside Studios,Residence Inn Weehawken Port Imperial,0.636303516273346,Oakwood at Longacre House,0.6666666666666667,1600 Broadway on the Square,0.8333333333333334
+271,1164645,Eurostars Wall Street,Senton Hotel,0.7113248654051871,La Semana Hotel,0.75,Chelsea Inn - 11th Avenue,0.7763932022500211
+272,1484261,Oakwood at the Blake,Madison LES Hotel,0.9408493678103766,The Wall Street Inn,0.9506068268721273,Hotel Pennsylvania,0.9530449154727659
+273,1546341,Hotel 99,West 57 Apt Corporation,0.0,Bristol Plaza,0.7705842661294382,Blue Moon Hotel,0.9714518665230041
+274,1938661,Row NYC Hotel,West 57 Apt Corporation,0.0,Bristol Plaza,0.7705842661294382,Blue Moon Hotel,0.9714518665230041
+275,4584805,The Gallery Guesthouse,"Club Quarters Hotel, Wall Street",0.9483602220505678,Executive Hotel LeSoleil,0.9538734395985558,Salisbury Hotel,0.9555005840510016
+276,6219365,Hotel Hugo,Paramount Hotel New York,0.7983458422930165,Hotel Edison Times Square,0.8156170692398943,The Manhattan at Times Square Hotel,0.8325793587536232
+277,6418149,Habitat 101,YOTEL New York,1.0,Times Square Beds,1.0,Novotel New York Times Square,1.0
+278,8085477,She-Fah Hotel,Arlo SoHo,0.8753177908819523,The James New York - SoHo,0.8917583853613218,Courtyard New York Manhattan/SoHo,0.8981073129082928
+279,15649253,Global Luxury Suites at River,Franklin Guesthouse,0.9253086313026729,The Box House Hotel,0.9265281641629355,Manhattan Broadway Hotel,0.9278312163512967
+280,93339,Westgate New York City,Explore Hotel and Hostel,0.33333333333333315,Kensho homes,0.7113248654051871,Red Lion Inn and Suites Brooklyn,0.7418011102528388
+281,93467,Gardens Suites Hotel by Affinia,Dharma Home Suites JC at Grove Station,0.7958758547680684,70 Greene Street,0.8174258141649446,Dharma Home Suites Hoboken at Novia,0.8525580438451028
+282,217627,Belnord Hotel,Hudson New York,0.8384545551770366,The Gallivant Times Square,0.8689890690516082,DoubleTree by Hilton Hotel Metropolitan - New York City,0.9091034153929719
+283,668187,1600 Broadway on the Square,Fifty Hotel & Suites by Affinia,0.8763317341387907,The Marmara Manhattan,0.9100856237898132,Shelburne Hotel & Suites by Affinia,0.9197608697874573
+284,1456411,Royalton Park Avenue,Hotel Newton,0.886280459332469,SoHo Garden Hotel,0.9204266569070064,Royal Park Hotel,0.9212074605512653
+285,1746459,The Nolitan Hotel,Oakwood at Longacre House,0.5,Residence Inn by Marriott Weehawken Port Imperial,0.8333333333333334,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,0.8957427929714626
+286,1786395,NoMo SoHo Hotel,The Marmara Park Avenue,0.8647164176433081,The Dominick Hotel,0.884263655687155,Parker New York,0.8886237600595556
+287,7352347,Hotel Indigo Lower East Side New York,"The Standard, East Village",0.8899572971419558,Hotel on Rivington,0.9242085846870166,CitizenM New York Bowery,0.9243350091542022
+288,10154139,Harbor Motor Inn,Soho Grand Hotel,0.7998280830951217,11 Howard,0.8082014473917783,The James New York - SoHo,0.8167540449963362
+289,15675035,Deedee's Lofts At Grove II,SIXTY LES,0.8632865947066436,Hotel on Rivington,0.8814189302326467,The Ludlow New York City,0.8947658041176961
+290,93430,IBEROSTAR 70 Park Avenue Hotel,Atlantic Motor Inn,0.591751709536137,Sleep Inn Brooklyn,0.6666666666666665,Red Carpet Inn,0.7113248654051871
+291,1144054,Chelsmore Apartments,Inn New York City,0.8611876100295288,Fairfield Inn New York Long Island City / Manhattan View,0.9131801379740151,Holiday Inn Express New York City - Chelsea,0.9254550982341312
+292,1776886,Sanctuary NYC Retreats,Saint Marks Place Studio Apartments,0.6984886554222364,Alma Mathews House,0.6984886554222364,Comfort Inn Brooklyn City Center,0.7867992836443896
+293,2290038,New York Apartments Hotel - Extended Stay,Avenue Plaza Hotel,0.9406609170903073,East Village Apartments by Sudha,0.9444390853014661,Hotel Mulberry,0.9466749610276622
+294,5888246,Madison LES Hotel,Prive,0.894590744661054,Studio-plus Apartment,0.936112343500006,AKA Sutton Place,0.9396977310844473
+295,15288822,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,The Hotel 91,0.914685471707954,Soho 54,0.9318059500964344,The Leon Hotel,0.9381728745733852
+296,93520,Park Central Hotel New York,Oakwood at Longacre House,0.7914855859429253,Fairfield Inn & Suites by Marriott New York Manhattan/Times Square 36th St.,0.8748913515657551,1600 Broadway on the Square,0.8957427929714626
+297,632656,Honey's Bed and Breakfast,YOTEL New York,0.8337712724115838,Stewart Hotel,0.8529291150654933,Park Lane Hotel,0.8624786917756216
+298,651216,Beekman Apartments,A & Faye Bed and Breakfast,0.7327387580875757,Dekoven Suites,0.7327387580875757,Bibi's Garden Bed and Breakfast,0.7327387580875757
+299,675664,A Garden In Chelsea,Beekman Tower,0.9046537410754407,Dylan Hotel NYC,0.9342048305040231,Hyatt House New York/Chelsea,0.9401315659910751
+300,1157328,Grove Pointe Apartments,San Fermin B&B,0.7806827683467437,Dupuy's Landing Guest House,0.7942622000505442,Bubba and Bean (BB) Lodges,0.8040084225975554
+301,1157456,Four Points by Sheraton Manhattan SoHo Village,Dream Home Luxury Suites,0.42264973081037416,Dharma Home Suites JC at the Arts District,0.591751709536137,Deedee's Downtown Flats,0.591751709536137
+302,1699664,Sakuratei,Courtyard New York Manhattan/SoHo,0.799009998482282,Sheraton Tribeca New York Hotel,0.909742853669987,Four Points by Sheraton Manhattan Chelsea,0.9182746352075206
+303,8126672,The Tillary Hotel,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+304,8872656,Manhattan Bowery Lodge,Holiday Inn Brooklyn Downtown,0.7803304015908011,Hotel Indigo,0.7806188271852396,Hampton Inn Brooklyn/Downtown,0.7893291415805291
+305,112019,Chelsea Savoy Hotel,Central Park West Hostel,0.8083446146548792,U.S. Pacific Hotel,0.8476820510387643,Morningside Inn,0.8510364942329158
+306,1157523,Imperial Hotel,Heritage Hotel New York City,0.9042769832924087,Redford Hotel,0.9445073256819757,Hotel 31,0.9477009291267092
+307,1509139,Highbridge House 173rd Street,Hotel Indigo,0.9250468311004139,Pointe Plaza Hotel,0.9272607032546692,Sheraton Brooklyn New York Hotel,0.9285714285714286
+308,2151571,Hotel Americano,Times Square Beds,1.0,Novotel New York Times Square,1.0,Rostel,1.0
+309,8526227,Upper East Guesthouse,AKA Sutton Place,0.8021090220327385,AKA Wall Street,0.8872163285055279,Dream Downtown,0.9357033304467828
+310,8595091,La Quinta Inn & Suites Brooklyn East,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+311,10131859,EVEN Hotel New York - Midtown East,Days Inn by Wyndham Brooklyn Borough Park,0.7942016978289894,La Quinta Inn & Suites Brooklyn Central,0.7999999999999999,Sleep Inn Brooklyn Downtown,0.8114381916835873
+312,10149907,Midtown Lodging,EVEN Hotel Times Square South,0.8689716167927305,Crowne Plaza HY36 Midtown Manhattan,0.9234864543464233,Hotel 50 Bowery NYC,0.9348902005680654
+313,13451795,The Times Square EDITION,Manhattan Lodging,0.5527864045000421,TEN15NYC,0.8974021647914846,HGU New York,0.9318005660529527
+314,15607187,Green Holidays Apartments,Sister City,0.8492443277111181,The New York EDITION,0.8645133093007163,Oakwood at Longacre House,0.8769085090206673
+315,93374,Off Soho Suites,Chelsea Art Suites,0.9009852457023325,East Village Hotel,0.9404508665824586,Metro Midtown Suites New York,0.9410744349011211
+316,99774,The Hotel @ Fifth Avenue,The Hotel 91,0.9065078548362462,SoHo Garden Hotel,0.9080589646084607,The Gatsby Hotel,0.9113489820916281
+317,112062,The Time New York,The Hotel at Times Square,0.8610595918956883,The Hotel @ New York City,0.8847216100709985,Hotel Stanford,0.9044525872125582
+318,118718,The Townhouse Inn of Chelsea,citizenM New York Times Square,0.875342545326744,Crowne Plaza Times Square Manhattan,0.9142145924075206,Sanctuary Hotel New York Times Square,0.9142836956747575
+319,566718,Park House Hotel,Colonial House Inn,0.8285482930307951,A Garden In Chelsea,0.866452819964166,Efuru Guest House,0.894000211999364
+320,1006654,Jersey City Bed & Breakfast,BEST WESTERN Gregory Hotel,0.9101973489866125,"The Vue, an Ascend Hotel Collection Member",0.9188892894346188,Best Western Plus Brooklyn Bay Hotel,0.9389152778218474
+321,93625,Hotel Wales,YOTEL New York,1.0,Times Square Beds,1.0,Novotel New York Times Square,1.0
+322,268217,Oakwood at 777 6th Avenue,The Franklin,0.8856792842186095,Excelsior Hotel,0.9032750038805545,Signature SoHo Suites,0.9079425382101677
+323,496569,The Holland Hotel,59th Street Bridge Suites,0.7642977396044842,Oakwood 24 East 38th Street,0.8075499102701247,Furnished Quarters Newport,0.8333333333333334
+324,641209,Hilton Garden Inn New York/Manhattan-Chelsea,Holiday Inn Express & Suites Jersey City North - Hoboken,0.7458152610574547,Ramada by Wyndham Jersey City,0.7640672238913019,Candlewood Suites Jersey City,0.7996792299462491
+325,1534905,Sleep Inn - Long Island City,Doubletree Hotel Chelsea - New York City,0.8775425196632752,Hilton New York Fashion District,0.9049985749679368,Hampton Inn Manhattan-Chelsea,0.9156710659383858
+326,3529145,Holiday Inn Express Manhattan Times Square South,Best Western Plus Plaza Hotel,0.8010756824556673,Nesva Hotel,0.8231906076356097,Queens County Inn and Suites Long Island City,0.8567724911694519
+327,12645689,Broadway Suite,Holiday Inn Express New York City Times Square,0.8434894121646169,Crowne Plaza Times Square Manhattan,0.8617603851932774,Staybridge Suites Times Square - New York City,0.8680622438718611
+328,15327417,Walker Hotel Tribeca,Macy Empire,0.8754854387270619,Design Dream,0.8921672267965616,5th Avenue Suites - New York,0.9119549093674376
+329,15354041,10 Minutes to World Trade Center,Renaissance New York Chelsea Hotel,0.7327387580875756,CitizenM New York Bowery,0.9422649730810374,The Ludlow New York City,0.9475857581639041
+330,630409,The London NYC,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+331,1197833,The Village House NY,The Quin Central Park by Hilton Club,0.9064474274566262,Conrad New York,0.9218840860591254,JW Marriott Essex House New York,0.9263239525724215
+332,1485961,Andaz Wall Street,Furnished Dwellings,0.7327387580875757,Oakwood 24 East 38th Street,0.7817821097640076,Kore Properties 73,0.7817821097640076
+333,1879049,"Brooklyn Way Hotel, BW Signature Collection",Andaz 5th Avenue,0.9040723275204754,The Wagner at the Battery,0.9099662147147647,AKA Wall Street,0.9167770578838343
+334,3353481,East Hampton Towers,Best Western Plus Arena Hotel,0.8359994489572228,The Brooklyn,0.8473332369282232,"Insignia Hotel, an Ascend Hotel Collection Member",0.854048723376844
+335,4868361,NYC Hostel,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+336,9761545,Courtyard New York Downtown Manhattan / World Trade Center Area,Jazz on Columbus Circle,0.9055088817476932,Comfort Inn Times Square West,0.9292893218813453,Broadway at Times Square Hotel,0.9364999364999047
+337,10040329,11 Howard,Residence Inn New York Downtown Manhattan World Trade Center Area,0.8872225079248403,Moxy NYC Downtown,0.9047376673806037,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.9090674214039369
+338,12533513,PUBLIC,NoMo SoHo Hotel,0.8082014473917783,Soho Grand Hotel,0.8250646778708004,SIXTY SoHo,0.8287809563393952
+339,99389,The Evelyn,"The Standard, East Village",0.8682208594987243,The Ludlow New York City,0.8794790809011335,Sago Hotel,0.8990203933753893
+340,118717,Greenwich Village Habitue,The Frederick Hotel,0.8939613652975427,The James New York-NoMad,0.9108133250545798,Arlo NoMad,0.9209529441035375
+341,939709,Park Slope Inn,Jones Street Guesthouse,0.7846472391767338,Village Guest House,0.7914855859429253,A Garden In Chelsea,0.8423779187521798
+342,1060157,Best Western Bowery Hanbee Hotel,Design Dream,0.6837722339831621,Comfort Inn Brooklyn,0.7418011102528388,Park Slope Bed & Breakfast,0.850928801500014
+343,1161789,Inter-Continental Central Park South New York,The Leon Hotel,0.9074010654006792,Hotel Mulberry,0.9294781231502058,Best Western Premier Herald Square,0.9382768964727258
+344,3533117,Lefferts Gardens Residence B&B,Urban International Life,0.7226499018873854,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),0.8613249509436927,Candy Hostel,0.8867722965855405
+345,12064061,La Quinta Inn & Suites Brooklyn Central,The Ultimate,0.8492443277111181,Victorian Inn,0.886039423540362,Kings Hotel,0.8994962184740788
+346,15655741,Caprice Luxurious Stay,La Quinta Inn & Suites Brooklyn Downtown,0.76,La Quinta Inn & Suites Brooklyn East,0.7999999999999999,The Griffin Bed and Breakfast,0.8
+347,93464,Parker New York,The Holland Hotel,0.8740118423302576,Holiday Inn Express & Suites Jersey City North - Hoboken,0.8813218341806147,Ramada by Wyndham Jersey City,0.8829588528038694
+348,99352,Hilton Garden Inn Times Square,Viceroy Central Park New York,0.8694327219227567,InterContinental New York Barclay,0.8739916373493453,Doubletree by Hilton New York Times Square West,0.884691962428885
+349,1510040,Kore Properties - 92,Crowne Plaza Times Square Manhattan,0.7540461231260591,Hilton Garden Inn New York/West 35th Street,0.7852097692376806,Hilton Times Square,0.8062721145578762
+350,2464152,Wyndham Garden Long Island City,Times Square World,0.6464466094067263,Time Square Apartments,0.862639436051311,Roger Smith Hotel,0.9385704883166048
+351,5958296,Mulberry Suites NYC,Hotel Nirvana,0.8367109726539689,Fairfield Inn & Suites New York Queens/Queensboro Bridge,0.8471426003904795,Feather Factory Hotel,0.851639393485948
+352,6476696,Chez Oseye Bed & Breakfast,Serene Homes E25,0.6464466094067263,NY Moore Hostel,0.9518874775675312,The Broome,0.9625234155502069
+353,10184216,Hilton Brooklyn New York,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+354,12449176,Global Luxury Suites at Metropolitan,Hampton Inn Brooklyn/Downtown,0.7343015792225027,EVEN Hotel Brooklyn,0.791253293947516,New York Marriott at the Brooklyn Bridge,0.8146937593054756
+355,13140760,Feather Factory Hotel,5th Avenue Suites - New York,0.8174258141649446,Dharma Home Suites JC at Grove Station,0.9087129070824723,70 Greene Street,0.9183503419072274
+356,15647128,Skyline Luxury Home Suites At Newport II,Hotel Nirvana,0.7628148026801728,Motel 6 Long Island City - Queens,0.7829034636580547,La Quinta Inn Queens (New York City),0.790233919282693
+357,15688600,Apartments Upper West Side,Dharma Home Suites JC at the Arts District,0.4654775161751513,Deedee's Lofts At Grove II,0.6220355269907728,Deedee's Lofts at Grove,0.6220355269907728
+358,93333,The Wolcott Hotel,Third Ave House,0.42264973081037416,The Sutton Residence,0.5,Hotel Park 79,0.6464466094067263
+359,93589,The Michelangelo Hotel,Hotel Stanford,0.9244056106846266,Westgate New York City,0.9295919861471941,"nyma, the New York Manhattan Hotel",0.9391725693444845
+360,112021,Broadway at Times Square Hotel,WestHouse Hotel New York,0.9016224898142402,The Knickerbocker Hotel,0.9016414057312448,The Quin Central Park by Hilton Club,0.9170058710949426
+361,122005,The New Yorker a Wyndham Hotel,The Hotel at Times Square,0.8774846846283081,The Hotel @ Fifth Avenue,0.9159739680638965,Night Times Square,0.9303665930190912
+362,1150357,Highbridge House,YOTEL New York,0.7700996182928506,Hotel Edison Times Square,0.797903826521188,Crowne Plaza Times Square Manhattan,0.8010857595132236
+363,1155221,Upper East Suites & Duplex,The Grant Hotel,0.6464466094067263,United Nations Apartment Hotel,0.7113248654051871,Hotel Delmonico,0.7113248654051871
+364,1539093,Serenity at Home Guest House LLC,Bed and Breakfast NYC,0.8974021647914846,Gardens Suites Hotel by Affinia,0.9470187057173982,Concorde Hotel New York,0.9654967220328823
+365,1631253,139 Norfolk st.,Garden Green Bed and Breakfast,0.683772233983162,The Loralei B&B,0.8309691490542966,Highbridge House,0.841886116991581
+366,3426837,The Williamsburg Guesthouse,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+367,8355861,Wyndham Garden Brooklyn Sunset Park,Phoenix Hotel,0.8456966500379081,Lefferts Manor Bed & Breakfast,0.9178005063473214,NY Moore Hostel,0.9319586182560229
+368,12142741,La Belle Etoile Hostel,Harbor Motor Inn,0.8629622580344937,Hotel Le Bleu,0.8705297442897871,EVEN Hotel Brooklyn,0.8828732494666284
+369,14095381,Moxy NYC Downtown,Residences at 51st Street and 7th Avenue,0.7418011102528388,Hotel Olcott,0.7817821097640076,Times Square West Hostel,0.7958758547680684
+370,15642261,Manhattan Lodging,Moxy NYC Chelsea,0.824106696600121,Moxy NYC Times Square,0.8534524914923242,AC Hotel New York City Downtown,0.8654654412007375
+371,502408,Fifty Hotel & Suites by Affinia,Midtown Lodging,0.5527864045000421,Studio-plus Apartment,0.8571428571428572,Manhattan Broadway Hotel,0.875
+372,518280,Room Mate Grace,Shelburne Hotel & Suites by Affinia,0.8659903974934829,Gardens Suites Hotel by Affinia,0.8763317341387907,Stewart Hotel,0.928226775254213
+373,620040,Wingate by Wyndham Manhattan Midtown,Skyline Hotel,0.918148305397659,YOTEL New York,0.9292989362558828,Royalton Park Avenue,0.9321489196979803
+374,1155336,Time Square Apartments,AREI's Guesthouse,0.7958758547680684,Midtown East Residence by Globe Quarters,0.9166666666666666,Times Square West Hostel,0.9278312163512967
+375,1177864,The GEM Hotel Chelsea,Times Square World,0.7086142412928207,WaterView Apartment - New York,0.8413896828563712,Alma Mathews House,0.862639436051311
+376,1201800,NYC Guesthouse,Chelsea Pines Inn,0.9183947408545521,Colonial House Inn,0.9423250199271528,Walker Hotel Greenwich Village,0.9468693571638145
+377,1237128,Hotel Hayden,Sleep Inn Brooklyn,0.7113248654051871,Macy Empire,0.8979379273840342,Four Points by Sheraton Manhattan SoHo Village,0.9494923727723895
+378,1878408,Kore Properties 83,"Hotel Henri, A Wyndham Hotel",0.9244495476288016,Cambria Hotel New York - Chelsea,0.9260536242153239,Innside by Melia New York NoMad,0.9369935219761818
+379,5039880,Courtyard New York Manhattan/Chelsea,Fit Hotel,0.42264973081037416,The West Townhouse,0.8110177634953863,The Milburn Hotel,0.8356010126946427
+380,7645960,Malcolm X Hostel,Fairfield Inn & Suites New York Manhattan/Chelsea,0.8943857535555305,Courtyard New York Manhattan/Herald Square,0.9001325484969149,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.9068656550440004
+381,7737096,Holiday Inn New York City - Times Square,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+382,121987,The Milburn Hotel,Holiday Inn Express New York City Times Square,0.874224152928803,Holiday Inn Express Manhattan Times Square South,0.8944456490415901,The New Yorker a Wyndham Hotel,0.9237562423659432
+383,1049347,The Melrose Hotel,Kore Properties 83,0.8356010126946427,Murray Hill East Suites,0.9013606076167856,The Melrose Hotel,0.9050842004247501
+384,1646979,Princess Lefferts Hotel,Hotel Delmonico,0.6666666666666665,Rainbow Guesthouse,0.7113248654051871,Bristol Plaza,0.8675467642934956
+385,6922883,Riverside Terrace New York,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+386,10390915,Hyatt House New York/Chelsea,YOTEL New York,1.0,Heart of Harlem,1.0,Novotel New York Times Square,1.0
+387,15031811,Suleika's Place,Hyatt Herald Square New York,0.8987741173568339,Hyatt Place New York Midtown South,0.9056015490281117,Innside by Melia New York NoMad,0.9262195934743053
+388,15197955,Sister City,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+389,15353987,Bowers Luxury Condos,The Times Square EDITION,0.8492443277111181,The Local NYC,0.9459261929564124,CitizenM New York Bowery,0.9528595479208968
+390,222959,The Wagner at the Battery,The Fairview,0.7642977396044841,Haiban Inn,0.8174258141649446,Gowanus Inn and Yard,0.8456966500379081
+391,249711,The Hotel at Times Square,Conrad New York,0.9084943732448705,Andaz Wall Street,0.9099662147147647,Royalton Park Avenue,0.9285707167805413
+392,281071,"Mandarin Oriental, New York",The Hotel @ Fifth Avenue,0.8610595918956883,Broadway at Times Square Hotel,0.8774846846283081,The Hotel @ New York City,0.8868010784119877
+393,620399,Duane Street Hotel,The Peninsula New York,0.7467095953452453,Four Seasons Hotel New York,0.7879141432689181,"The Ritz-Carlton New York, Central Park",0.792330347339534
+394,1139055,Holiday Inn L.I. City - Manhattan View,AKA Smyth Tribeca,0.8210399795836432,The Frederick Hotel,0.8272665931649879,Sheraton Tribeca New York Hotel,0.922257707424377
+395,1540975,Churchill At Marbella,Best Western Plus Plaza Hotel,0.8028078427126283,Home2 Suites by Hilton New York Long Island City/ Manhattan View,0.8120738334368237,The Paper Factory Hotel,0.8262431065352813
+396,1542383,AAE New York Hostel Inn Queen,Deedee's Downtown Flats,0.29289321881345254,Washington Street Apartments at Monaco,0.5527864045000421,Residence Inn by Marriott Jersey City,0.9059279131616402
+397,2554351,Hyatt Place New York Midtown South,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+398,3952879,Sugar Hill Suites,Hyatt Herald Square New York,0.8782196133535082,Hyatt House New York/Chelsea,0.9056015490281117,Hyatt Centric Times Square New York,0.9279322561909755
+399,93477,New York Marriott Downtown,The Pina - A Private Residence Hotel,0.5,5th Avenue Suites - New York,0.7113248654051871,United Nations Apartment Hotel,0.7113248654051871
+400,99365,Da Vinci Hotel,W New York - Downtown,0.9102564102564102,Millennium Hilton New York Downtown,0.9212480256632547,Courtyard New York Downtown Manhattan / World Trade Center Area,0.9224208886457281
+401,113317,Casablanca Hotel by Library Hotel Collection,Bella Guest House,0.9250468311004139,Shepherd Guest House,0.9250468311004139,Wellington Hotel,0.9401495794099198
+402,670501,Lexington Inn,Library Hotel by Library Hotel Collection,0.6649695907201849,Hotel Giraffe by Library Hotel Collection,0.6736107264764364,414 Hotel,0.7890240409280954
+403,1207461,Saint Nicholas Inn,Oasis Motel,0.42264973081037416,Hotel Lynx,0.42264973081037416,Galaxy Motel,0.5527864045000421
+404,1567653,Harlem Bed and Breakfast,Royal Park Hotel,0.854441481411155,Hotel 31,0.8708100736289099,The Park Ave North,0.8738113837187328
+405,5960997,Oakwood at The Nash,The International Cozy Inn,0.9009852457023326,255West Guesthouse,0.9401315659910751,The Central Park North,0.942833804952497
+406,12076837,"Hotel Henri, A Wyndham Hotel",Little Apple Manhattan Inn,0.894590744661054,Envoy Club Suites,0.9139337034176129,Dharma Home Suites JC at Grove Station II,0.9139337034176129
+407,13946533,70 Greene Street,Hotel Hayden,0.9244495476288016,Hampton Inn Manhattan-Chelsea,0.9301154020102789,Innside by Melia New York NoMad,0.9363640710041096
+408,15216421,Northern Lights Mansion,Global Luxury Suites at River,0.8174258141649446,Dharma Home Suites JC At Exchange Place,0.8406361854220809,Candlewood Suites Jersey City,0.8631548621240067
+409,15530661,Courtyard New York Manhattan/Financial District,City Rooms NYC - Times Square,0.919417703597462,Off Soho Suites,0.9331846895218939,The Hotel 91,0.9562730530553374
+410,15798821,Fairfield Inn & Suites by Marriott/World Trade Center Area,Courtyard New York Downtown Manhattan / World Trade Center Area,0.947295372330527,Four Seasons Hotel New York Downtown,0.9649068796828202,Courtyard by Marriott New York Manhattan/Central Park,0.9690803792948447
+411,582832,Imperial Court Hotel,"Club Quarters Hotel, Wall Street",0.9269703256659778,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.9460836133982808,La Quinta Inn & Suites New York City Central Park,0.951549841688849
+412,1191216,Downtown Luxury Collection,Quality Inn Long Island City,0.9009852457023326,Four Points by Sheraton Manhattan Midtown West,0.9404508665824586,Bowery Grand Hotel,0.9449518117436819
+413,1201072,Ace Hotel New York,BridgeStreet Liberty Towers,0.5000000000000001,Washington Street Apartments at Marbella,0.591751709536137,M Suites at Newport,0.6464466094067263
+414,1456560,Kimpton Hotel Eventi,The NoMad Hotel New York,0.9206098473070091,Arlo NoMad,0.9256381649850584,The James New York-NoMad,0.9277299673816708
+415,1465008,Holiday Inn Express New York City-Wall Street,Kimpton Ink48 Hotel,0.8555934350257917,Kimpton Muse Hotel,0.8565804499364862,Refinery Hotel,0.913457897295728
+416,1646128,InterContinental New York Times Square,Holiday Inn New York City - Wall Street,0.9217868924532899,Holiday Inn Manhattan - Financial District,0.9240638549048609,Holiday Inn Express Manhattan Times Square South,0.9277971620577372
+417,2153904,The Griffin Bed and Breakfast,InterContinental New York Barclay,0.813147670329085,The Knickerbocker Hotel,0.8581752663111584,Crowne Plaza Times Square Manhattan,0.8646412244299343
+418,2347696,The Isabella At Ditmas Park Bed & Breakfast,La Quinta Inn & Suites Brooklyn Central,0.8,Quality Inn Near Sunset Park,0.8845299461620748,Aloft New York Brooklyn,0.9209430584957905
+419,2398384,NY Moore Hostel,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+420,10768944,Park Guesthouse,Greenpoint YMCA,0.8048199854102934,International Student Residence,0.8320157897736769,Lefferts Manor Bed & Breakfast,0.8322109861964939
+421,14031408,Collective Governors Island,Times Square Beds,1.0,Novotel New York Times Square,1.0,Rostel,1.0
+422,472146,Comfort Inn Brooklyn,Little Apple Manhattan Inn,0.75,Liberty Harbor Marina & RV Park,0.7958758547680684,Chic&Budget New York,0.841886116991581
+423,3212498,East Village Hotel,Lexington Inn,0.7327387580875756,Best Western Plus Brooklyn Bay Hotel,0.8040930554654981,Sleep Inn Coney Island,0.8110177634953863
+424,7314002,Baccarat Hotel & Residences New York,RIFF Downtown,0.8541350085021054,TEN15NYC,0.8996088277884619,Village Guest House,0.9270675042510528
+425,12683986,The Fairview,The Peninsula New York,0.8083405137766291,Four Seasons Hotel New York Downtown,0.8246286334378614,Park Hyatt New York,0.8382479376411234
+426,12708178,U Hotel,Bowers Luxury Condos,0.7642977396044841,U Hotel,0.8639172365120457,The Quincy Guesthouse,0.8639172365120457
+427,12845266,Mondrian Park Avenue,Third Ave House,0.6666666666666665,Lafayette International Guesthouse,0.7113248654051871,Orchard Guesthouse,0.7642977396044841
+428,93376,Night Times Square,The Roger,0.9156004284890445,Royalton Park Avenue,0.9188684020720892,Refinery Hotel,0.9238880145625127
+429,99392,Hotel Metro,Night Theater District,0.8736773639288656,Hotel Mela,0.887569109703285,Paramount Hotel New York,0.8902038699794681
+430,112064,Warwick New York,The Dorset,0.9390289239150308,The New Yorker a Wyndham Hotel,0.9520610750168973,Hudson New York,0.9523397817794024
+431,249920,Midwood Suites,Lotte New York Palace,0.8339211882753003,Hotel 50 Bowery NYC,0.876162370913417,Park Central Hotel New York,0.8835609558079052
+432,622912,Atlantic Motor Inn,Renaissance New York Times Square Hotel,0.9539224322415909,Salisbury Hotel,0.9555005840510016,Q&A Residential Hotel,0.9573985677157695
+433,1034304,Michael,Harbor Motor Inn,0.591751709536137,Red Carpet Inn,0.6464466094067263,Galaxy Motel,0.6837722339831621
+434,5971904,West 119th B&B,Harlem Grand,0.9055088817476932,Aloft Harlem,0.9063414188418306,The Allen Hotel,0.9172394111397633
+435,6410944,United Nations Apartment Hotel,Harlem Grand,0.9069515789601529,The Harlem Flophouse,0.9216589341850725,Interfaith East Village,0.9384542545103336
+436,6591552,322 East 39 Street Apartments,The Pina - A Private Residence Hotel,0.42264973081037416,The Grant Hotel,0.591751709536137,Senton Hotel,0.6666666666666665
+437,6610496,WaterView Apartment - New York,Times Square Beds,1.0,Novotel New York Times Square,1.0,Rostel,1.0
+438,10751680,Hotel Richland New York,Hotel Olcott,0.7817821097640076,Time Square Apartments,0.8413896828563712,Fairfield Inn & Suites New York Brooklyn,0.9235280887098127
+439,93534,Renaissance New York Times Square Hotel,The Quincy Guesthouse,0.6666666666666665,The Mercer Hotel,0.9362423286936662,36 Hudson Hotel,0.9422649730810374
+440,235230,Bridgestreet 85 John Street,W New York - Times Square,0.8158636886757553,New York Marriott Marquis,0.8200961893706595,Renaissance New York Midtown Hotel,0.8553702088398627
+441,1202526,Times Square West Hostel,West 46th Street Apartment,0.5527864045000421,Jones Street Guesthouse,0.7418011102528389,AKA Wall Street,0.9172394111397633
+442,1448670,Hotel Mimosa,388 Bergen House,0.75,La Belle Etoile Hostel,0.7958758547680684,The Ultimate,0.8232233047033631
+443,1811422,Lincoln Road Bed & Breakfast,The Hotel 91,0.9131233658441918,SoHo Garden Hotel,0.9156194755316928,The Ridge Hotel,0.9160839089841286
+444,4274398,Courtyard New York Manhattan/Times Square West,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+445,7621342,Cesar Suites At Grand,Courtyard New York Manhattan/Times Square,0.8372533057586531,Courtyard by Marriott New York Manhattan/Central Park,0.8825851253375921,Courtyard New York Manhattan/Herald Square,0.916032573043714
+446,12979678,The Pandora Guest House,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+447,113300,Omni Berkshire Place,SIXTY LES,0.9384542545103336,Executive Hotel LeSoleil,0.9538734395985558,TRYP New York City Times Square South,0.9594112520765901
+448,122004,Phillips Club,Lotte New York Palace,0.8820692158694966,InterContinental New York Barclay,0.8883142356719808,Parker New York,0.9130602830300373
+449,2600980,BridgeStreet The Monaco,House of the Redeemer,0.850928801500014,Hotel Alexander,0.894590744661054,The Empire Hotel,0.9432800019662932
+450,3849364,Pacific Loft Guesthouse,Washington Street Apartments at Marbella,0.7113248654051871,Kensho homes,0.75,Dharma Home Suites JC at Grove Station,0.8556624327025936
+451,14149780,Aliz Hotel Times Square,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+452,15789204,Fairfield Inn & Suites,Doubletree by Hilton New York Times Square West,0.939858810677646,YOTEL New York,0.9468865341123802,Hotel Riu Plaza New York Times Square,0.9472662599176985
+453,93569,Belvedere Hotel,YOTEL New York,1.0,Times Square Beds,1.0,Novotel New York Times Square,1.0
+454,121985,Downtown Athletic Center,YOTEL New York,0.8944504129872124,Stewart Hotel,0.8997721969169228,The Manhattan at Times Square Hotel,0.9009644137184499
+455,157057,Chambers Hotel,AKA Central Park,0.9289582947907311,The Blakely New York,0.9351142605123494,WestHouse Hotel New York,0.9383487131266188
+456,540545,Chelsea Inn - 11th Avenue,Serene Homes E25,0.6837722339831621,Senton Hotel,0.7418011102528388,Riff Chelsea,0.7609542781331213
+457,549761,Dexter House Hostel,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+458,578305,Residence Inn New York Manhattan/Times Square,Residence Inn New York Manhattan/Central Park,0.8178111373655157,Residence Inn New York Manhattan / Midtown East,0.8763977499630805,Staybridge Suites Times Square - New York City,0.8863524793780392
+459,622721,Holiday Inn Express Brooklyn,Quality Inn Near Sunset Park,0.8412231627925111,Holiday Inn Brooklyn Downtown,0.849295695424219,Gowanus Inn and Yard,0.8585503510033322
+460,1014913,Chez Michelle,Hotel Cliff,0.7788370657676543,710 Guest Suites,0.7914855859429252,Jumel Terrace Bed and Breakfast,0.8384854293825503
+461,1529345,Beacon Light Motel,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+462,10421761,1 Hotel Brooklyn Bridge,The William Vale,0.7103366259725039,The Williamsburg Hotel,0.8139880455006596,Hampton Inn Brooklyn/Downtown,0.8209000866048167
+463,12675201,The Lexington,Time Square Apartments,0.862639436051311,"Insignia Hotel, an Ascend Hotel Collection Member",0.9209430584957905,New York Marriott East Side,0.9274523749889988
+464,12823041,City Rooms NYC - Times Square,City Rooms NYC Chelsea,0.9015349110056092,Mayfair Hotel,0.9170882558726449,Northern Lights Mansion,0.919417703597462
+465,80092,Inn New York City,IBEROSTAR 70 Park Avenue Hotel,0.8611876100295288,Fairfield Inn New York Long Island City / Manhattan View,0.8869496306073145,The Blakely New York,0.9068515530032464
+466,235228,Midtown Convention Center Hotel,Hotel Pennsylvania,0.9160334306987208,Hotel St. James,0.9386699244337567,Royal Park Hotel,0.9422908623996853
+467,1149404,Doubletree By Hilton - Times Square South,Doubletree by Hilton New York Times Square West,0.837547958419284,DoubleTree Suites by Hilton Hotel New York City - Times Square,0.894251261478329,Hilton Garden Inn New York Times Square South,0.9032751631834584
+468,1390172,Fairfield Inn & Suites New York Manhattan/Times Square,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.8144790108007013,Fairfield Inn & Suites New York Manhattan/Chelsea,0.871296573451153,Fairfield Inn New York Manhattan/Financial District,0.907455396452469
+469,3522780,Walker Hotel Greenwich Village,The Marlton Hotel,0.7129506577719927,Washington Square Hotel,0.7837504780941253,Hyatt Union Square New York,0.8628471823680003
+470,6577372,Upper Manhattan Deluxe,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+471,226805,The Harlem YMCA,The Vanderbilt YMCA,0.7950415126995516,West Side YMCA,0.8185939364096927,Central Park West Hostel,0.8317351142058074
+472,570101,La Quinta Inn Queens (New York City),Queens County Inn and Suites Long Island City,0.6991322981432472,Ramada by Wyndham Long Island City,0.7321950647571176,Feather Factory Hotel,0.790233919282693
+473,1462005,W New York - Downtown,W New York - Union Square,0.8947003747014687,New York Marriott Downtown,0.9102564102564102,Courtyard New York Downtown Manhattan / World Trade Center Area,0.9164532646953994
+474,1500405,Hampton Inn Manhattan/Times Square South,Hampton Inn Manhattan-Times Square North,0.8223553685706002,Hampton Inn Manhattan / Times Square Central,0.8478255892666207,Hampton Inn Manhattan - Madison Square Garden Area,0.9155288148839896
+475,1852917,Element New York Times Square West,Staybridge Suites Times Square - New York City,0.9134039025438861,Fairfield Inn & Suites New York Manhattan/Times Square,0.9248133681754169,Residence Inn New York Manhattan/Times Square,0.9292741141808906
+476,4053109,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,Fairfield Inn & Suites New York Manhattan/Fifth Avenue,0.8717947071655994,"Marriott Vacation Club Pulse, New York City",0.9022972370265268,Fairfield Inn & Suites New York Manhattan/Times Square,0.9155689633904025
+477,5040757,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY",Staybridge Suites Times Square - New York City,0.8739476722490277,Stewart Hotel,0.8929734748780608,Residence Inn New York Manhattan/Times Square,0.8929901198234186
+478,6023925,Residence Inn New York Manhattan/Central Park,Residence Inn New York Manhattan/Times Square,0.8178111373655157,Courtyard by Marriott New York Manhattan/Central Park,0.8369946966336236,Residence Inn New York Manhattan / Midtown East,0.8611110435827996
+479,8722421,U.S. Pacific Hotel,Morningside Inn,0.8164867655821004,Manhattan Bowery Lodge,0.8476820510387643,The Harlem YMCA,0.8608588150105463
+480,11726197,Hotel RL Brooklyn,"Insignia Hotel, an Ascend Hotel Collection Member",0.8389599178900575,BKLYN House,0.8474357116853177,Bogart Hotel,0.8748930513768791
+481,80107,Roger Smith Hotel,Kore Properties - 92,0.9385704883166048,The Roosevelt Hotel,0.9533022176425942,Gardens Suites Hotel by Affinia,0.9563347572316622
+482,93419,"The Carlyle, A Rosewood Hotel",The Mark,0.8104383819272589,Lowell Hotel,0.8513737520798312,The Surrey,0.855214873280248
+483,99307,Wellington Hotel,The New Yorker a Wyndham Hotel,0.9067720927072243,The Manhattan at Times Square Hotel,0.9121194452375561,Park Central Hotel New York,0.9126941552740196
+484,248683,Super 8 by Wyndham Long Island City LGA Hotel,Ramada by Wyndham Long Island City,0.8334760396414311,Atlantic Motor Inn,0.8525580438451028,Super 8 by Wyndham Brooklyn / Park Slope Hotel,0.8609903906286168
+485,548331,Galaxy Motel,Lexington Inn,0.5527864045000421,Atlantic Motor Inn,0.6837722339831621,Hotel Lynx,0.7418011102528388
+486,611947,New York Hilton Midtown,Hilton Times Square,0.8883356539024134,Hilton Garden Inn New York/Central Park South-Midtown West,0.8942190019561376,Sheraton New York Times Square Hotel,0.9037065564374198
+487,1158763,Hampton Inn Manhattan-35th St/Empire State Bldg,Hampton Inn Manhattan - Madison Square Garden Area,0.8791175580027718,Hampton Inn Manhattan-Times Square North,0.8981009617421645,Hampton Inn Manhattan / Times Square Central,0.9050556843359063
+488,1858923,DoubleTree by Hilton Hotel New York City - Financial District,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.8816483507798294,DoubleTree by Hilton Hotel Metropolitan - New York City,0.9141270164749823,Hampton Inn Manhattan / Downtown - Financial District,0.9213733035487057
+489,3572587,Hampton Inn Manhattan Grand Central,Hampton Inn Manhattan-Times Square North,0.8688534011019016,Hampton Inn Manhattan / Times Square Central,0.9076183728047575,Hampton Inn Manhattan-35th St/Empire State Bldg,0.9243215602694747
+490,3794283,Citiview Guesthouse,Boro Hotel,0.8954583253021366,Aloft Long Island City - Manhattan View,0.8974021647914846,The Local NYC,0.9063414188418306
+491,6640491,Archstone Hoboken,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+492,7196011,Comfort Inn Sunset Park / Park Slope,Orchard Guesthouse,0.7958758547680684,Jumel Terrace Bed and Breakfast,0.8063508326896291,The Quiet Inn on Central Park,0.8180982812227503
+493,15527275,Holiday Inn Express & Suites Jersey City - Holland Tunnel,Furnished Quarters Newport,0.7763932022500211,Econo Lodge Jersey City,0.7763932022500211,Global Luxury Suites at Newport,0.8
+494,93351,The Frederick Hotel,Duane Street Hotel,0.8272665931649879,The Evelyn,0.8939613652975427,AKA Smyth Tribeca,0.9043648428948661
+495,93607,Loews Regency New York Hotel,Hotel Plaza Athenee,0.8304441445497738,The Langham New York Fifth Avenue,0.8392721224744752,The Surrey,0.8541965811968959
+496,112039,Hotel Newton,Royal Park Hotel,0.8268897300099685,Belnord Hotel,0.886280459332469,Hotel 31,0.8905363378540806
+497,612263,Hotel Mela,Row NYC Hotel,0.8502952131707118,The Gallivant Times Square,0.8503767491926801,Paramount Hotel New York,0.8529961427234365
+498,1149479,Museum Bed and Breakfast,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+499,1467303,The Blue Porch Bed & Breakfast,Inn on Second,0.5370899501137243,Arlington Place Bed and Breakfast,0.5370899501137243,At Home In Brooklyn,0.5635642195280153
+500,1862567,Fairfield Inn & Suites New York Brooklyn,Hilton Brooklyn New York,0.8462569134789802,Aloft New York Brooklyn,0.8534011320979066,Hampton Inn Brooklyn/Downtown,0.8538178789832813
+501,2614311,The Vue Express @ 39th Street,Harbor Motor Inn,0.8174258141649446,Sleep Inn Brooklyn,0.8174258141649446,Sleep Inn Brooklyn Downtown,0.850928801500014
+502,3973287,Best Western Premier Herald Square,Holiday Inn Express Manhattan Times Square South,0.9356323114697279,Best Western Bowery Hanbee Hotel,0.9382768964727258,Hampton Inn Manhattan-35th St/Empire State Bldg,0.9407651122240908
+503,6877735,Fairfield Inn New York Manhattan/Financial District,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.874733317226789,Aloft Manhattan Downtown Financial District,0.9059163485802654,Fairfield Inn & Suites New York Manhattan/Times Square,0.907455396452469
+504,7098279,Manhattan Hostel,Candy Hostel,0.5917517095361369,Broadway at Times Square Hotel,0.9364999364999047,West Side YMCA,0.9478004249028119
+505,7787303,The New York EDITION,The Times Square EDITION,0.8645133093007163,The Langham New York Fifth Avenue,0.8723542930310835,Gramercy Park Hotel,0.8728321338872662
+506,8515751,Hotel Riu Plaza New York Times Square,Crowne Plaza Times Square Manhattan,0.8647325711994871,Novotel New York Times Square,0.8960757176360333,InterContinental New York Times Square,0.8993662952412478
+507,12695463,AC Hotel by Marriott New York Times Square,AC Hotel New York City Downtown,0.9049530468461255,The Westin New York at Times Square,0.9242981457942676,Courtyard New York Manhattan/Times Square,0.927030939598956
+508,93561,Soho Grand Hotel,SIXTY SoHo,0.7830323957233555,NoMo SoHo Hotel,0.7998280830951217,The James New York - SoHo,0.8110636559450146
+509,99321,The Manhattan Club,Park Central Hotel New York,0.9374080494326763,Kore Properties - 92,0.943834404369827,Carnegie Hotel,0.9495618061666453
+510,4972409,The Marlton Hotel,Walker Hotel Greenwich Village,0.7129506577719927,Washington Square Hotel,0.78531686358957,The Ludlow New York City,0.8853451580965679
+511,5483129,Five Spot Loft,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+512,6123897,Mod-Lodge,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+513,15843961,Montecarlo Luxurious Stay,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+514,93450,Grand Hyatt New York,The Roosevelt Hotel,0.8776357117735799,The Westin New York Grand Central,0.8981764336643084,New York Hilton Midtown,0.9045804467349772
+515,99466,New York Marriott at the Brooklyn Bridge,Sheraton Brooklyn New York Hotel,0.7624321052722361,Hampton Inn Brooklyn/Downtown,0.7838372624685767,Hilton Brooklyn New York,0.8146937593054756
+516,121994,Hostelling International - New York,Jazz on the Park,0.8026849485939099,Broadway Hotel and Hostel,0.8383781664212956,The Vanderbilt YMCA,0.8589954656629175
+517,234762,The Quin Central Park by Hilton Club,West 57th Street by Hilton Club,0.838778211344738,1 Hotel Central Park,0.8404644284649547,Viceroy Central Park New York,0.8724593080278558
+518,287626,Gansevoort Meatpacking NYC,"The Standard, High Line",0.8427131591138995,Dream Downtown,0.870998942907934,Royalton Park Avenue,0.9101144081300491
+519,609930,Saints and Sinners Bed and Breakfast,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+520,1007626,Hotel Le Jolie,Henry Norman Hotel,0.7381772600270531,McCarren Hotel & Pool,0.7390305664991585,Hotel Le Bleu,0.7420666511337614
+521,10177034,The Metropolitan,Hotel Bliss,0.8769085090206672,Comfort Inn Brooklyn,0.8908910548820038,Sankofa Aban BnB,0.8979379273840342
+522,10758026,Bogart Hotel,BKLYN House,0.827025398494584,Pointe Plaza Hotel,0.8514583633815129,Paper Moon Bed & Breakfast,0.8541350085021054
+523,12913546,The Allen Hotel,Chelsea Center East,0.8829588528038694,Orchard Street Hotel,0.896549263924704,Michael,0.9172394111397633
+524,15115402,Merrion Row Hotel and Public House,Park Terrace Hotel on Bryant Park,0.943920598387196,LUMA Hotel Times Square,0.9519965004457246,citizenM New York Times Square,0.9562590152098313
+525,15638538,Tribeca Lofts,The Evelyn,0.9420715553636507,Courtyard New York Manhattan/Midtown East,0.950852681281701,The James New York-NoMad,0.9518874775675312
+526,577738,North Brooklyn / 12 Towns YMCA,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+527,1465162,Staybridge Suites Times Square - New York City,Crowne Plaza Times Square Manhattan,0.8661794780154344,Holiday Inn Express Manhattan Times Square South,0.8680622438718611,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY",0.8739476722490277
+528,1489098,East Village Apartments by Sudha,Gramercy Townhouse by Sudha,0.8344788222795264,Saint Marks Place Studio Apartments,0.8829588528038694,Chez Michelle,0.902380935087324
+529,3618762,Hotel Five44,Design Dream,0.9266764424893233,Hotel St. James,0.9445726004526307,The Mansfield,0.9497004545172143
+530,5072714,The Broome,SIXTY SoHo,0.8459990812201729,Crosby Street Hotel,0.8648607403940828,11 Howard,0.8735165274819484
+531,15636426,Hello Broadway,Worldwide Plaza,0.6666666666666667,Times Square Towers,0.882148869802242,Midtown West Hotel,0.9323102556577587
+532,653810,Eden House Apartment,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+533,1503474,"Distrikt Hotel New York City, Tapestry Collection by Hilton",YOTEL New York,0.9175863922615494,"The Bernic Hotel New York City, Tapestry Collection by Hilton",0.9310399211681705,"Martinique New York on Broadway, Curio Collection by Hilton",0.9336335158497626
+534,1800818,Sankofa Aban BnB,Arlington Place Bed and Breakfast,0.7958758547680684,The Blue Porch Bed & Breakfast,0.8110177634953863,Dekoven Suites,0.8232233047033631
+535,2555634,Alma Mathews House,House of the Redeemer,0.42264973081037416,Econolodge,0.5,Village Guest House,0.5
+536,7789170,Holiday Inn Brooklyn Downtown,Sheraton Brooklyn New York Hotel,0.7534015190419642,EVEN Hotel Brooklyn,0.7728501560708185,The Tillary Hotel,0.7803304015908011
+537,13320178,The Brooklyn House by Living Lab,BKLYN House,0.9209430584957905,Hotel Le Jolie,0.9211889593760899,Pod Brooklyn,0.9371305386538069
+538,13748466,The Grand NYC,Broadway Hotel and Hostel,0.8899910033408391,Manhattan Bowery Lodge,0.9055088817476932,Americana Inn,0.910445267432071
+539,15271026,Comfort Inn And Suites Maspeth,YOTEL New York,1.0,Times Square Beds,1.0,Novotel New York Times Square,1.0
+540,15632114,Excellent Apartment by Central Park,The Kimberly Hotel,0.9574564370188483,The Bowery Hotel,0.9607162899340806,The Hotel @ New York City,0.9630389364522713
+541,93470,NH New York Jolly Madison Towers,Brooklyn Motor Inn,0.932115576669787,Aloft New York Midtown,0.9401315659910751,Fairfield Inn & Suites New York Manhattan/Fifth Avenue,0.9619237521227433
+542,122014,"Gild Hall, a Thompson Hotel","The Beekman, A Thompson Hotel",0.8912021705622046,Hotel 50 Bowery NYC,0.9146522231889384,AKA Wall Street,0.9202563588384896
+543,217630,414 Hotel,Casablanca Hotel by Library Hotel Collection,0.7890240409280954,Library Hotel by Library Hotel Collection,0.8335499242847042,Hotel Elysee by Library Hotel Collection,0.843657413409191
+544,571166,Gramercy Park Hotel,W New York - Union Square,0.8549577528108244,The New York EDITION,0.8728321338872662,The NoMad Hotel New York,0.8775127682825062
+545,6728350,Times Square Towers,Worldwide Plaza,0.6464466094067263,Alma Mathews House,0.6464466094067263,Serene Homes E25,0.75
+546,8625310,Williamsburg Hostel,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+547,12301470,Moxy NYC Times Square,Moxy NYC Chelsea,0.8496033625531056,Moxy NYC Downtown,0.8534524914923242,Doubletree by Hilton New York Times Square West,0.9111019806468084
+548,15650590,Global Luxury Suites at Washington,Bristol Plaza,0.8377785788692375,La Quinta Inn & Suites Brooklyn Downtown,0.8585786437626906,Hotel RL Brooklyn,0.9241901956421097
+549,93606,Hotel Plaza Athenee,The Surrey,0.7857142857142858,Loews Regency New York Hotel,0.8304441445497738,Lowell Hotel,0.8428780910485499
+550,290982,La Semana Hotel,Senton Hotel,0.42264973081037416,Hotel Riverside Studios,0.75,Chelsea Inn - 11th Avenue,0.7763932022500211
+551,630950,Holiday Inn Express New York City - Chelsea,Holiday Inn Express New York City Times Square,0.9135138168471459,Inn New York City,0.914199856713641,Holiday Inn Express Manhattan Times Square South,0.9193234582056268
+552,651430,Churchill Suites East Side,59th Street Bridge Suites,0.591751709536137,AKA Sutton Place,0.9221501055838477,Courtyard New York Manhattan/SoHo,0.9324262621600514
+553,1146278,Oakwood at West 53rd,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+554,1465254,Sheraton Lincoln Harbor Hotel,Residence Inn Weehawken Port Imperial,0.6752008228235398,Residence Inn by Marriott Weehawken Port Imperial,0.8346203538810554,Candlewood Suites Jersey City,0.8685234442882874
+555,1500326,Best Western Plus Plaza Hotel,Queens County Inn and Suites Long Island City,0.707826343681047,LIC Hotel,0.7560315185566813,Hilton Garden Inn Long Island City Queensboro Bridge,0.7616909142946028
+556,1595302,"Club Quarters Hotel, World Trade Center",World Center Hotel,0.7760616871713945,"Club Quarters Hotel, Wall Street",0.8017079732032668,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.8842036225937608
+557,93579,Park Lane Hotel,Park Central Hotel New York,0.8624786917756216,Parker New York,0.8937324515668112,Warwick New York,0.8989929763656868
+558,99467,BEST WESTERN Gregory Hotel,Best Western Plus Brooklyn Bay Hotel,0.7805772004794254,La Quinta Inn & Suites Brooklyn East,0.8563157583785801,"Insignia Hotel, an Ascend Hotel Collection Member",0.8722085872944104
+559,296075,Dekoven Suites,Bibi's Garden Bed and Breakfast,0.5000000000000001,At Home In Brooklyn,0.591751709536137,Inn on Second,0.7113248654051871
+560,6857483,Yoga Hostel,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+561,8505227,Cambria Hotel New York - Times Square,Cambria Hotel New York - Chelsea,0.8452354316457876,Citadines Connect Fifth Avenue New York,0.9379000598584917,Signature SoHo Suites,0.948835548990335
+562,14191627,Econolodge,Alma Mathews House,0.5,House of the Redeemer,0.7113248654051871,Village Guest House,0.75
+563,80081,Chelsea Inn - 17th Street,The Hotel 91,0.8690211313271134,Royal Park Hotel,0.8998481881591711,SoHo Garden Hotel,0.9010545110163692
+564,99281,The Lucerne Hotel,Arthouse Hotel New York City,0.8471957594552098,Hotel Beacon,0.8511644580196119,Excelsior Hotel,0.8747213962907499
+565,1161809,The Helmsley Windsor,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.9465477516175151,Ace Hotel New York,0.9575140711337913,The Lombardy,0.9628865190487397
+566,1720145,San Fermin B&B,Easyliving-harlem,0.7664503167515431,A Garden In Chelsea,0.7806827683467437,Heart of Harlem,0.8202133700098021
+567,1888977,The Pearl Hotel,citizenM New York Times Square,0.9019127555090365,Casablanca Hotel by Library Hotel Collection,0.9069444871251484,The Time New York,0.922248797690727
+568,3567057,Hotel Bliss,Garden Green Bed and Breakfast,0.6984886554222364,Comfort Inn Brooklyn,0.838835407194924,Sankofa Aban BnB,0.8492443277111181
+569,4457041,Fairfield Inn & Suites New York Manhattan/Downtown East,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.917978205635145,Fairfield Inn New York Manhattan/Financial District,0.9231638751142176,Fairfield Inn & Suites New York Manhattan/Times Square,0.9359213485851067
+570,6581329,Serene Homes E25,Mulberry Suites NYC,0.6464466094067263,Chelsea Inn - 11th Avenue,0.6837722339831621,Bowery's Whitehouse Hotel,0.7113248654051871
+571,6581841,Dharma Home Suites JC At Exchange Place,Dharma Home Suites JC at Paulus Hook,0.6814034535678452,Dharma Home Suites JC at Grove Station,0.6881952177688382,Dharma Home Suites JC at Grove Station II,0.7327387580875756
+572,10846801,The Whitby Hotel,Crosby Street Hotel,0.8624811617646365,Hotel Giraffe by Library Hotel Collection,0.8700519516660514,Library Hotel by Library Hotel Collection,0.8895084281137767
+573,14013137,The Residences by Hilton Club,Imhotep New York Bed & Breakfast,0.7958758547680684,West 57th Street by Hilton Club,0.8298965456400571,The Hilton Club - New York,0.8406361854220807
+574,14212433,M Suites at Newport,Downtown Luxury Collection,0.6464466094067263,BridgeStreet Liberty Towers,0.6464466094067263,Deedee's Downtown Flats,0.6464466094067263
+575,112053,The Mercer Hotel,Crosby Street Hotel,0.8793296240030422,The Broome,0.8841193004398216,The Bowery Hotel,0.9141088130528972
+576,214197,Hotel Pennsylvania,Pod 51 Hotel,0.8033903987638169,Blue Moon Hotel,0.8142947920236813,Royal Park Hotel,0.8270982772798563
+577,498869,Hampton Inn Manhattan - Madison Square Garden Area,Hampton Inn Manhattan-35th St/Empire State Bldg,0.8791175580027718,Hampton Inn Manhattan-Chelsea,0.9033640782078256,Hampton Inn Manhattan-Times Square North,0.9075176597175737
+578,673077,Lord & Moris - Times Square Hotel,Flatiron Hotel,0.9239530899370626,Hotel Pennsylvania,0.9419197680503226,Dylan Hotel NYC,0.9473638644032185
+579,1536437,Kore 58,YOTEL New York,1.0,Times Square Beds,1.0,Heart of Harlem,1.0
+580,7792565,Boro Hotel,The Paper Factory Hotel,0.6814655807698824,Aloft Long Island City - Manhattan View,0.7908478844950646,Ravel Hotel Trademark Collection,0.8405294594612982
+581,13800117,Executive Class at MTS Hotel,Residences at 51st Street and 7th Avenue,0.9274523749889988,Park Central Hotel New York,0.9638435057673529,Viceroy Central Park New York,0.9693430330257518
+582,15530677,Renaissance New York Chelsea Hotel,Urban International Life,0.7327387580875756,Walker Hotel Tribeca,0.7327387580875756,Candy Hostel,0.8908910548820038
+583,1128769,SIXTY LES,Hotel Indigo Lower East Side New York,0.8632865947066436,Hotel on Rivington,0.9038993762376967,The Ludlow New York City,0.9161272867099672
+584,1583937,Redford Hotel,The Gatsby Hotel,0.9037749551350623,Clarion Hotel Park Avenue,0.9326564970298526,Stay the Night Bed & Breakfast,0.9410744349011211
+585,4353985,Guest House I enjoy NY,Parkside Bed & Breakfast,0.7705842661294382,Chic&Budget New York,0.8974021647914846,Residences at 51st Street and 7th Avenue,0.8974021647914846
+586,6542529,Hampton Inn Brooklyn/Downtown,Hilton Brooklyn New York,0.7343015792225027,The Brooklyn,0.7740083756025404,EVEN Hotel Brooklyn,0.7740870021100379
+587,6555841,The Leon Hotel,The Ridge Hotel,0.9055223775869753,Best Western Bowery Hanbee Hotel,0.9074010654006792,Hotel Mulberry,0.9288072814877032
+588,75711,The Gallivant Times Square,Hotel Mela,0.8503767491926801,Row NYC Hotel,0.85674183078537,Paramount Hotel New York,0.8571023957199886
+589,99391,Courtyard New York Manhattan/Fifth Avenue,Courtyard New York Manhattan/Herald Square,0.8960024626325277,Comfort Inn Brooklyn City Center,0.913613157441864,Courtyard New York Manhattan/Times Square,0.913613157441864
+590,113343,Marrakech Hotel on Broadway,Royal Park Hotel,0.8333522987170694,Days Inn by Wyndham Hotel New York City-Broadway,0.8638972369008623,The Hotel 91,0.8851093707683556
+591,1053375,Isabella's Suites,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+592,1172031,The Westin Jersey City Newport,Hyatt Regency Jersey City,0.6058994640988077,DoubleTree by Hilton Hotel & Suites Jersey City,0.6642852865870641,Courtyard by Marriott Jersey City Newport,0.6747959149684135
+593,1857215,Americas Best Value Inn,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+594,1929023,Parkside Bed & Breakfast,Guest House I enjoy NY,0.7705842661294382,Easyliving-harlem,0.7763932022500211,International Student Residence,0.7817821097640076
+595,3595199,AREI's Guesthouse,Midtown East Residence by Globe Quarters,0.5917517095361369,Wingate by Wyndham Manhattan Midtown,0.7958758547680684,The Central Park North,0.9504926228511663
+596,7620287,Cesar Suites At Harborside,Furnished Quarters Newport,0.5,Travelodge by Wyndham Jersey City,0.6220355269907728,Pelican New Jersey Residences,0.7113248654051871
+597,12446655,Hyatt House Jersey City,Hyatt Regency Jersey City,0.6672429465488525,Candlewood Suites Jersey City,0.6975596433499817,Residence Inn by Marriott Jersey City,0.7079088960399704
+598,2163379,Z NYC Hotel,The Paper Factory Hotel,0.8581075898733775,LIC Hotel,0.8587220563843978,Boro Hotel,0.8679981941404572
+599,4283443,The High Line Hotel,"The Standard, High Line",0.8904417928670446,The Maritime Hotel,0.9168189616367611,Dream Downtown,0.9231675378088732
+600,11737011,Shepherd Guest House,Bella Guest House,0.5000000000000001,Lafayette International Guesthouse,0.6464466094067263,Metro Apartments,0.8232233047033631
+601,13449907,TownePlace Suites New York Manhattan / Times Square,Fairfield Inn & Suites New York Manhattan/Times Square,0.9315971215463107,Element New York Times Square West,0.942741466643163,Residence Inn New York Manhattan / Midtown East,0.9496570056108036
+602,1007724,The Ridge Hotel,Orchard Street Hotel,0.8616503523676333,The Gatsby Hotel,0.8934983915962177,The Leon Hotel,0.9055223775869753
+603,1644524,Liberty Inn,Soho House New York,0.943656383018099,The GEM Hotel Chelsea,0.9561470990346486,Duane Street Hotel,0.9651844688088604
+604,5039852,Courtyard by Marriott New York Manhattan/Central Park,Residence Inn New York Manhattan/Central Park,0.8369946966336236,Courtyard New York Manhattan/Times Square,0.8701375930383477,Courtyard New York Manhattan/Times Square West,0.8825851253375921
+605,5575276,515 Flats,Holiday Inn Express Manhattan Midtown West,0.948565550012636,Hilton Garden Inn New York/Midtown Park Ave,0.9494923727723895,Four Points by Sheraton Midtown - Times Square,0.9498745292882914
+606,7255276,The Knickerbocker Hotel,InterContinental New York Times Square,0.8581752663111584,Refinery Hotel,0.8786341823334158,Royalton Park Avenue,0.8916363801969523
+607,10330604,Four Seasons Hotel New York Downtown,Baccarat Hotel & Residences New York,0.8246286334378614,Four Seasons Hotel New York,0.8456768713606542,The Langham New York Fifth Avenue,0.8469066840050092
+608,15688556,Bluebird Suites in Times Square,Heart of Harlem,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+609,15749356,Dream Home Luxury Suites,Dharma Home Suites JC at the Arts District,0.29289321881345254,Grove Pointe Apartments,0.42264973081037416,Skyline Luxury Home Suites At Newport II,0.6220355269907728
+610,93396,The Iroquois New York,Archer Hotel New York,0.8896233272545101,Casablanca Hotel by Library Hotel Collection,0.8999169489841717,The Bryant Park Hotel,0.9101971394329487
+611,1486164,Fairfield Inn & Suites New York Manhattan/Fifth Avenue,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.8717947071655994,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9035701217163272,Fairfield Inn & Suites New York Manhattan/Times Square,0.9100212957632222
+612,1488084,Leo House,Seafarers & International House,0.8855593918115813,The Park Ave North,0.9174069159317607,Hotel Mimosa,0.9233954400215844
+613,1604308,710 Guest Suites,Chez Michelle,0.7914855859429252,The Rivieria New York,0.8,59th Street Bridge Suites,0.8585786437626906
+614,1625940,New York Hostel 99,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+615,1925716,Riviera Motor Inn Brooklyn,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+616,7182804,Residence Inn New York Downtown Manhattan World Trade Center Area,Residence Inn New York Manhattan / Midtown East,0.8836584837286034,Courtyard New York Downtown Manhattan / World Trade Center Area,0.8872225079248403,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.8938592165233895
+617,13635668,CitizenM New York Bowery,citizenM New York Times Square,0.8976174805276749,NobleDEN Hotel,0.9063000687673122,Hotel Indigo Lower East Side New York,0.9112125477399418
+618,93418,Bristol Plaza,Oakwood at the Blake,0.7705842661294382,West 57 Apt Corporation,0.7705842661294382,Global Luxury Suites at Washington,0.8377785788692375
+619,1207530,Bed and Breakfast NYC,I Love Dormitory,0.7705842661294382,388 Bergen House,0.8377785788692375,Times Square West Hostel,0.8377785788692375
+620,1379306,The Hilton Club - New York,West 57th Street by Hilton Club,0.8048199854102935,The Residences by Hilton Club,0.8406361854220807,Imhotep New York Bed & Breakfast,0.9024099927051467
+621,1637482,Fane Hotel,Times Square Beds,1.0,Novotel New York Times Square,1.0,Rostel,1.0
+622,4876010,The Local NYC,New York Connection Youth Hostel,0.8675467642934956,NY Moore Hostel,0.8852921330647191,Hostelling International - New York,0.901932723457684
+623,6733290,Hotel 32 32,Stewart Hotel,0.9522681958946374,Hotel Hayden,0.9559612358731473,"nyma, the New York Manhattan Hotel",0.9584049837087237
+624,13456618,Aloft New York Midtown,Elegant Retreats,0.7642977396044842,Aloft Manhattan Downtown Financial District,0.9268238266735398,La Quinta Inn & Suites Brooklyn Central,0.9333333333333333
+625,251899,Colonial House Inn,The Townhouse Inn of Chelsea,0.8285482930307951,A Garden In Chelsea,0.8888459971246544,Chelsea Pines Inn,0.903851259658198
+626,1723387,Midtown Stay,Midtown Deluxe Apartments,0.8110177634953863,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,0.9211889593760899,TRYP New York City Times Square South,0.969317790562048
+627,1776507,Chelsea Mews Guest House,Kore Properties 73,0.7642977396044841,Midtown Deluxe Apartments,0.7958758547680684,Dupuy's Landing Guest House,0.8333333333333333
+628,1940859,Hyatt Herald Square New York,Hyatt Place New York Midtown South,0.8782196133535082,Hyatt House New York/Chelsea,0.8987741173568339,Hyatt Union Square New York,0.9338368306421151
+629,7907067,Hipsters Cove Guesthouse,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+630,14040955,Concorde Hotel New York,1600 Broadway on the Square,0.961424162509477,Carvi Hotel New York,0.9635060105864252,Hotel Elysee by Library Hotel Collection,0.9651819364939724
+631,93543,Shelburne Hotel & Suites by Affinia,Fifty Hotel & Suites by Affinia,0.8659903974934829,Gardens Suites Hotel by Affinia,0.9197608697874573,Stewart Hotel,0.9282354533899213
+632,632551,Hilton Garden Inn New York/Tribeca,Sheraton Tribeca New York Hotel,0.8943866228592301,Inn New York City,0.9075267181988089,Courtyard New York Manhattan/SoHo,0.9089601910943814
+633,1518823,Chic&Budget New York,Little Apple Manhattan Inn,0.6837722339831621,Collective Governors Island,0.841886116991581,Hotel Park 79,0.841886116991581
+634,3572583,Holiday Inn Express Manhattan Midtown West,Comfort Inn Midtown West,0.8658137399695768,Holiday Inn Express New York City Times Square,0.8917976137573322,Holiday Inn Express Manhattan Times Square South,0.9349474978762073
+635,4053479,Courtyard New York Manhattan/Herald Square,Courtyard New York Manhattan/Times Square,0.8856334395685193,Courtyard New York Manhattan/Fifth Avenue,0.8960024626325277,Courtyard New York Manhattan/Chelsea,0.9001325484969149
+636,8501479,Q&A Residential Hotel,NobleDEN Hotel,0.8842321038469593,Hotel 50 Bowery NYC,0.9036782550370628,414 Hotel,0.9054792653488302
+637,15688551,Bluebird Suites in Midtown West,Soul Food Mont Morris,0.8729998729998095,Hudson River Hotel,0.9216739550012043,Best Western Premier Herald Square,0.9459261929564124
+638,15737063,Hamilton Heights Lovely Apartments,Times Square Beds,1.0,YOTEL New York,1.0,Rostel,1.0
+639,1732175,Churchill at 50 Columbus,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+640,1949647,Fairfield Inn & Suites New York Manhattan/Chelsea,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.8333401916205475,Fairfield Inn & Suites New York Manhattan/Times Square,0.871296573451153,Courtyard New York Manhattan/Chelsea,0.8943857535555305
+641,3331407,Q4 Hotel,Sleep Inn - Long Island City,0.8996860274848961,The Local NYC,0.9032698333186651,Nesva Hotel,0.9096123092422266
+642,8785615,RIFF Downtown,The Pina - A Private Residence Hotel,0.6666666666666667,TEN15NYC,0.7705842661294383,United Nations Apartment Hotel,0.8075499102701247
+643,10264527,Dharma Home Suites JC at Grove Station,Dharma Home Suites JC at Grove Station II,0.6666666666666665,Grove Pointe Apartments,0.6666666666666665,Dharma Home Suites JC At Exchange Place,0.6881952177688382
+644,11822287,Dharma Home Suites Hoboken at Novia,Dharma Home Suites Hoboken at Grand,0.6872283789143878,Dharma Home Suites JC At Exchange Place,0.8391276369780533,Candlewood Suites Jersey City,0.8452826142041127
+645,75688,Dream Midtown,Dream Downtown,0.9005830308401935,Park Central Hotel New York,0.9232305565837219,YOTEL New York,0.9347544688530541
+646,93352,DoubleTree Suites by Hilton Hotel New York City - Times Square,Doubletree by Hilton New York Times Square West,0.829753203951978,DoubleTree by Hilton Hotel Metropolitan - New York City,0.8684464600144078,Doubletree By Hilton - Times Square South,0.894251261478329
+647,99368,Courtyard New York Manhattan/Times Square,Courtyard New York Manhattan/Times Square West,0.8372533057586531,Courtyard by Marriott New York Manhattan/Central Park,0.8701375930383477,Courtyard New York Manhattan/Herald Square,0.8856334395685193
+648,281640,Red Lion Inn & Suites Long Island City,Queens County Inn and Suites Long Island City,0.8208804567586395,La Quinta Inn Queens (New York City),0.821732205757699,Hotel Nirvana,0.8314102554514209
+649,1540904,East Side Riviera,YOTEL New York,1.0,Heart of Harlem,1.0,Novotel New York Times Square,1.0
+650,1907624,Village Guest House,Alma Mathews House,0.5,House of the Redeemer,0.7113248654051871,Econolodge,0.75
+651,2151848,McCarren Hotel & Pool,Hotel Le Jolie,0.7390305664991585,The William Vale,0.7499930382478652,The Williamsburg Hotel,0.7539892798057493
+652,10134568,EVEN Hotel Brooklyn,Hotel Indigo,0.7435590644955397,Holiday Inn Brooklyn Downtown,0.7728501560708185,Hampton Inn Brooklyn/Downtown,0.7740870021100379
+653,13393448,"Insignia Hotel, an Ascend Hotel Collection Member",Quality Inn Near Sunset Park,0.762653558414428,Hotel RL Brooklyn,0.8389599178900575,"Brooklyn Way Hotel, BW Signature Collection",0.854048723376844
+654,15245480,Racpanos Modern Stay on Forrest Street,Racpanos Modern Stay on Union Street,0.29289321881345254,Racpanos Modern Stay On Ocean Avenue,0.6464466094067263,Red Lion Inn & Suites Long Island City,0.921913119055697
+655,93431,The Tuscany - A St Giles Signature Hotel,"The Renwick Hotel New York City, Curio Collection by Hilton",0.9101304390192223,"Club Quarters Hotel, Grand Central",0.9274294543549655,Shelburne Hotel & Suites by Affinia,0.9313359104771299
+656,93559,The Sherry-Netherland Hotel,"The Pierre, A Taj Hotel, New York",0.8639966213137169,Hotel Plaza Athenee,0.8979379273840342,Hotel Elysee by Library Hotel Collection,0.8984589214585321
+657,99447,La Quinta Inn & Suites New York City Central Park,Hotel Belleclaire,0.9223233165702475,Excelsior Hotel,0.9431634666481792,Hotel Alexander,0.944054576113554
+658,3634167,Skyway Motel,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+659,8468727,The Brooklyn,Hampton Inn Brooklyn/Downtown,0.7740083756025404,The Box House Hotel,0.7763015276135536,Hotel Le Bleu,0.7763476369188168
+660,93525,Sanctuary Hotel New York Times Square,Casablanca Hotel by Library Hotel Collection,0.9040844386239615,Kimpton Muse Hotel,0.9100263154627011,The Time New York,0.9142836956747575
+661,594901,Signature Suites Battery Park,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+662,7604181,Tryme Backpackers Hostel,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+663,12934485,Freehand New York Hotel,YOTEL New York,0.9051849753550748,Arlo NoMad,0.9054293921427135,Pod 39 Hotel,0.9072787184020272
+664,13635925,Mayflower Boutique Hotel,Feather Factory Hotel,0.8513924766465726,Queens County Inn and Suites Long Island City,0.8684027615276906,Voyage Hotel,0.8738687552226218
+665,93337,The Kitano Hotel New York,Grand Hyatt New York,0.926386920509078,Landmark Guest Rooms,0.9421200919826768,Shelburne Hotel & Suites by Affinia,0.9435149935436399
+666,93593,The Westin New York Grand Central,The Westin New York at Times Square,0.8779171236955858,Grand Hyatt New York,0.8981764336643084,"The Lexington Hotel, Autograph Collection",0.9098413467758958
+667,1119257,Upper Yorkville Suites,770Suites,0.6464466094067263,Empire 120,0.6464466094067263,Stay the Night Bed & Breakfast,0.75
+668,1963673,The Gotham Hotel,The Kitano Hotel New York,0.9480808591051981,Hotel 48LEX New York,0.9534026084023784,Royalton New York Hotel,0.9547623731353251
+669,5550873,Archer Hotel New York,The Bryant Park Hotel,0.8171404349983774,Hotel 50 Bowery NYC,0.8589196785937748,Hotel Giraffe by Library Hotel Collection,0.8655077742025971
+670,220243,W New York - Union Square,Gramercy Park Hotel,0.8549577528108244,Hyatt Union Square New York,0.8697292863651851,The New York EDITION,0.8750556999656323
+671,579795,Bibi's Garden Bed and Breakfast,At Home In Brooklyn,0.18350341907227397,Inn on Second,0.42264973081037416,A & Faye Bed and Breakfast,0.5000000000000001
+672,2148819,Hotel 48LEX New York,The Benjamin,0.9372322815196628,Elk Hotel,0.9427401665686131,"The Lexington Hotel, Autograph Collection",0.9465398083703593
+673,3502291,Comfort Inn Midtown West,Holiday Inn Express Manhattan Midtown West,0.8658137399695768,Comfort Inn Times Square West,0.8714260912937621,Honey's Bed and Breakfast,0.9402385695332803
+674,5305555,Hotel Lynx,Lexington Inn,0.42264973081037416,Oasis Motel,0.6666666666666665,Red Lion Inn and Suites Brooklyn,0.7418011102528388
+675,8680787,"The Renwick Hotel New York City, Curio Collection by Hilton","The Bernic Hotel New York City, Tapestry Collection by Hilton",0.8700757602846096,"Martinique New York on Broadway, Curio Collection by Hilton",0.8891331705852126,The Tuscany - A St Giles Signature Hotel,0.9101304390192223
+676,10368723,Fairfield Inn & Suites New York Manhattan/Central Park,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.9098094826930404,Fairfield Inn & Suites New York Manhattan/Times Square,0.9140832593060056,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9241901956421097
+677,15135187,Park Terrace Hotel on Bryant Park,The Bryant Park Hotel,0.8985067022158711,Hotel 50 Bowery NYC,0.9160492099854012,Hotel Giraffe by Library Hotel Collection,0.9242280744395832
+678,93583,The Lombardy,The Kimberly Hotel,0.9147372554278153,AKA Central Park,0.9246156379184753,Fitzpatrick Manhattan Hotel,0.9420495219716658
+679,121999,AKA Sutton Place,AKA Wall Street,0.7544924184414261,AKA United Nations,0.783459121288589,Hotel Americano,0.8021090220327385
+680,585487,Comfort Inn Brooklyn City Center,Chelsmore Apartments,0.7867992836443896,Days Inn by Wyndham Brooklyn,0.8456966500379081,Courtyard New York Manhattan/Fifth Avenue,0.913613157441864
+681,1477775,The MAve Hotel,Residence Inn New York Manhattan/Financial District,0.841886116991581,Living Manhattan,0.9122941980692971,Hotel Deauville,0.9154845745271484
+682,1606543,ComfortStayNYC,Abode Bed and Breakfast,0.6464466094067263,Margot Guest House,0.6464466094067263,The Soho Loft,0.75
+683,2084239,Midtown Deluxe Apartments,Kore Properties 73,0.7113248654051871,Chelsea Mews Guest House,0.7958758547680684,Midtown Stay,0.8110177634953863
+684,4945551,WestHouse Hotel New York,Viceroy Central Park New York,0.8616231015553318,The Quin Central Park by Hilton Club,0.893050671780605,The Michelangelo Hotel,0.9016224898142402
+685,6407567,Hilton Garden Inn New York - Times Square Central,Hilton Garden Inn Times Square,0.8215110733125878,Hilton Times Square,0.8769391521203618,Hilton Garden Inn New York Times Square South,0.8943534763149601
+686,6717455,City Rooms NYC Chelsea,Hotel 31,0.885645740687649,The Bowery House,0.8980406572264897,City Rooms NYC - Times Square,0.9015349110056092
+687,12164367,Baltic Huis,La Quinta Inn & Suites Brooklyn Central,0.9105572809000084,La Quinta Inn & Suites Brooklyn East,0.9105572809000084,Gowanus Inn and Yard,0.9309934440657646
+688,13892623,Canal Loft Hotel,Broadway Hotel and Hostel,0.8079457695197144,Central Park West Hostel,0.8273352244133767,The Bowery House,0.8279264861078899
+689,93575,The Franklin,Hotel Wales,0.8856792842186095,Third Ave House,0.9103778570103558,Excelsior Hotel,0.9184496779213367
+690,121991,Seton Hotel,Pod 39 Hotel,0.8885358627139467,Broadway Plaza Hotel,0.929722581911539,Pod 51 Hotel,0.9300898759924736
+691,502407,AKA United Nations,AKA Sutton Place,0.783459121288589,59th Street Bridge Suites,0.8377785788692375,Oakwood at 777 6th Avenue,0.8470561774196255
+692,6610567,The Marmara Park Avenue,Royalton Park Avenue,0.8647164176433081,The Marmara Manhattan,0.877352333378858,The Wagner at the Battery,0.9308635517465771
+693,9780743,Howard Johnson by Wyndham Brooklyn,Quality Inn,0.29289321881345254,Red Carpet Inn,0.5,Voyage Hotel,0.8651600275073515
+694,11998087,Embassy Suites by Hilton New York Midtown Manhattan,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY",0.9153103440938676,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,0.9275899484477728,New York Hilton Midtown,0.9335748583933585
+695,14085767,Funky Buddha Hostel,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+696,15004167,Victorian Inn,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),0.8110177634953863,The Ultimate,0.8110177634953863,J-Stel,0.8663693790437879
+697,208453,Hilton Times Square,Hilton Garden Inn Times Square,0.8062721145578762,Hilton Garden Inn New York - Times Square Central,0.8769391521203618,The Westin New York at Times Square,0.8816873214534443
+698,1179077,The International Cozy Inn,255West Guesthouse,0.8399478263433449,Harlem Bed and Breakfast,0.9009852457023326,The Park Ave North,0.9013902157196239
+699,1913413,The Jewel facing Rockefeller Center,"Club Quarters Hotel, opposite Rockefeller Center",0.8627397608702443,"Club Quarters Hotel, Times Square -Midtown",0.9100481398232438,YOTEL New York,0.931715517647009
+700,4702789,The Towers at Lotte New York Palace,Lotte New York Palace,0.8147651804182457,The Langham New York Fifth Avenue,0.8454426525821025,Crosby Street Hotel,0.8708673377207818
+701,13356101,Springhills Suites by Marriott,Merrion Row Hotel and Public House,0.9675557157738475,Carvi Hotel New York,0.969780105739225,Four Points by Sheraton Manhattan Chelsea,0.9698488655422236
+702,14086469,The Assemblage John Street,Residence Inn New York Downtown Manhattan World Trade Center Area,0.9203823486227665,Moxy NYC Downtown,0.9219205246168006,Churchill at 15 Park Row,0.9226176767465863
+703,15292101,Rostel,East Village Hotel,0.9404508665824586,Da Vinci Hotel,0.9567257677592085,Bowery Grand Hotel,0.9610750527919238
+704,93516,Novotel New York Times Square,Crowne Plaza Times Square Manhattan,0.816978591563186,Hilton Garden Inn Times Square,0.8741613254161936,YOTEL New York,0.8873666650407049
+705,645836,Times Square Beds,Thomas Family B&B,0.7763932022500211,Bed and Breakfast NYC,0.8852921330647191,U Hotel Fifth Avenue,0.9631395109612757
+706,2079052,YOTEL New York,Crowne Plaza Times Square Manhattan,0.7644705960333364,The New Yorker a Wyndham Hotel,0.7700996182928506,Hotel 50 Bowery NYC,0.7924147485500791
+707,2359244,Heart of Harlem,Empire 120,0.8174258141649446,San Fermin B&B,0.8202133700098021,Easyliving-harlem,0.8267949192431123
+708,10066892,Hotel 50 Bowery NYC,YOTEL New York,0.7924147485500791,Crowne Plaza HY36 Midtown Manhattan,0.8168416854459255,Hotel Giraffe by Library Hotel Collection,0.8214067939754768
+709,11894988,Safehouse Suites,Thomas Family B&B,0.8309691490542968,Midtown East Residence by Globe Quarters,0.8456966500379081,Macy's Apartments,0.8804771390665607
+710,15582668,Times Square West Midtown Apartment,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+711,15685580,Bluebird Suites in Jersey City,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+712,251906,The Wall Street Inn,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.9159973118709691,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,0.9275340574600244,Bridgestreet 85 John Street,0.932115576669787
+713,313346,Stay the Night Bed & Breakfast,Empire 120,0.6464466094067263,Margot Guest House,0.75,Upper Yorkville Suites,0.75
+714,643970,Broadway Hotel and Hostel,Royal Park Hotel,0.7585174610930451,The Vanderbilt YMCA,0.7654038388493734,Morningside Inn,0.7669850533246817
+715,1145602,Upper West Side Townhouse,The Vanderbilt YMCA,0.950852681281701,Aliz Hotel Times Square,0.9509119306326184,Hostelling International - New York,0.9537255186617253
+716,1544194,Kore 31,The Marmara Park Avenue,0.9383373584021792,Park South Hotel,0.9440983005625052,The New York EDITION,0.9475857581639041
+717,7891458,Arlo SoHo,Arlo NoMad,0.7907226856643753,Hotel Hugo,0.8753177908819523,The James New York - SoHo,0.897506433175296
+718,99371,Courtyard New York Manhattan/Midtown East,Courtyard by Marriott New York Manhattan/Central Park,0.8946959522946932,Courtyard New York Manhattan/Times Square,0.9096437539086009,Courtyard New York Manhattan/Times Square West,0.9165090492640261
+719,223019,Broadway Plaza Hotel,Seton Hotel,0.929722581911539,Aloft Harlem,0.9331861808851404,Comfort Inn Times Square West,0.9393630081244542
+720,290987,St. Marks Hotel,U.S. Pacific Hotel,0.9314515674119385,The Ridge Hotel,0.9329127192764497,Seafarers & International House,0.9341803394666978
+721,1181739,The Jane,Hotel 31,0.8716001057127519,The Bowery House,0.8908186575516365,Pod 51 Hotel,0.905481237921161
+722,1657771,La Quinta Inn & Suites Brooklyn Downtown,La Quinta Inn & Suites Brooklyn Central,0.76,Global Luxury Suites at Washington,0.8585786437626906,Kings Hotel,0.8666666666666667
+723,10039979,AKA Wall Street,AKA Sutton Place,0.7544924184414261,Hotel Americano,0.8872163285055279,AKA Smyth Tribeca,0.8890216256529981
+724,93539,Riverside Tower Hotel,Royal Park Hotel,0.8920678840690055,The Hotel 91,0.9107427433131873,Marrakech Hotel on Broadway,0.9261451054124004
+725,235235,Oakwood Bridge Tower Place,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+726,504803,The Harlem Flophouse,Saint Nicholas Inn,0.9047614248485003,The Harlem YMCA,0.9061611822302824,Manhattan Bowery Lodge,0.9062426749228314
+727,1371875,Inn on Second,At Home In Brooklyn,0.2928932188134523,Bibi's Garden Bed and Breakfast,0.42264973081037416,Arlington Place Bed and Breakfast,0.4999999999999999
+728,1947235,Furnished Dwellings,Oakwood 24 East 38th Street,0.591751709536137,Apt 168,0.6464466094067263,The Village House NY,0.7327387580875757
+729,2689635,Landmark Guest Rooms,Broadway Tower,0.7642977396044841,The Kitano Hotel New York,0.9421200919826768,Days Inn by Wyndham Hotel New York City-Broadway,0.958387481071176
+730,3580899,Hampton Inn Manhattan / Downtown - Financial District,DoubleTree by Hilton Hotel New York City - Financial District,0.9213733035487057,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.9225311646237956,Hampton Inn Manhattan-Seaport-Financial District,0.932299679961367
+731,4476259,Big Apple Hostel,Sun Bright Hotel,0.8456966500379081,Wyndham Garden Chinatown,0.9360470520608921,Hotel Carter,0.9398070734571153
+732,5113699,Haiban Inn,Econo Lodge Jersey City,0.726138721247417,Explore Hotel and Hostel,0.7891814893221081,Ramada by Wyndham Jersey City,0.8076817705731903
+733,6708195,Urban Cowboy B&B,Park Slope Bed & Breakfast,0.7891814893221081,The Greenpoint Lodge,0.8174258141649446,The New York Loft Hostel,0.894590744661054
+734,15268195,Apollo Inn,YOTEL New York,1.0,Novotel New York Times Square,1.0,The Assemblage John Street,1.0
+735,15750627,New York Apartments,Chelsea Art Suites,0.8787321874818335,The Grand NYC,0.9527544408738466,Radio City Apartments,0.9533239971990664
+736,249656,Millennium Premier New York Times Square,Millennium Broadway New York Times Square,0.836320074339584,Crowne Plaza Times Square Manhattan,0.9176059318717456,Sanctuary Hotel New York Times Square,0.9213809593713164
+737,268216,Hampton Inn Manhattan-Chelsea,Hampton Inn Manhattan - Madison Square Garden Area,0.9033640782078256,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9125999510559589,Hilton Garden Inn New York/Manhattan-Chelsea,0.9156710659383858
+738,514488,Hotel on Rivington,Hotel Indigo Lower East Side New York,0.8814189302326467,SIXTY LES,0.9038993762376967,Sago Hotel,0.9126039311212217
+739,673080,Holiday Inn NYC - Manhattan 6th Avenue - Chelsea,Holiday Inn Express New York City - Chelsea,0.9199123459454649,Hampton Inn Manhattan-Chelsea,0.9290447823516316,Imhotep New York Bed & Breakfast,0.9384542545103336
+740,1237944,I Love Dormitory,Bed and Breakfast NYC,0.7705842661294382,Time Square Apartments,0.862639436051311,"Club Quarters Hotel, Wall Street",0.9483602220505678
+741,1641016,"The Chatwal, a Luxury Collection Hotel, New York City",The Peninsula New York,0.8742149321810482,The St. Regis New York,0.8811181544194769,"The Ritz-Carlton New York, Central Park",0.88815722052824
+742,3349304,The Greenpoint Lodge,Urban Cowboy B&B,0.8174258141649446,Greenpoint YMCA,0.9024099927051467,Nesva Hotel,0.942833804952497
+743,6510520,Hilton Garden Inn New York/Midtown Park Ave,Hilton Garden Inn New York/West 35th Street,0.8953867277090093,Hilton Garden Inn New York/Manhattan-Midtown East,0.908222112723206,Hilton Garden Inn Times Square,0.9315171871787159
+744,6620856,TEN15NYC,RIFF Downtown,0.7705842661294383,Downtown Luxury Collection,0.8377785788692375,Washington Street Apartments at Marbella,0.8675467642934956
+745,7772856,Quality Inn,Howard Johnson by Wyndham Brooklyn,0.29289321881345254,The Ultimate,0.6464466094067263,Red Carpet Inn,0.6464466094067263
+746,12197432,The James New York-NoMad,The James New York - SoHo,0.8586747507097316,The Roger,0.8967623449667452,The NoMad Hotel New York,0.9060242653690566
+747,15751224,NY Away - Luxury Apartments in the Financial District,Studio-plus Apartment,0.8989847455447789,Mr. C Seaport,0.9228483250189541,The Wall Street Inn,0.9519984639262681
+748,93489,Murray Hill East Suites,The Milburn Hotel,0.9013606076167856,Brooklyn Suites,0.9292893218813453,The William,0.942530422886731
+749,126257,Hotel 31,Royal Park Hotel,0.8704871030838228,Saint Nicholas Inn,0.8708100736289099,The Jane,0.8716001057127519
+750,1371825,AKA Smyth Tribeca,Duane Street Hotel,0.8210399795836432,AKA Wall Street,0.8890216256529981,The Frederick Hotel,0.9043648428948661
+751,1484593,Ramada by Wyndham Long Island City,La Quinta Inn Queens (New York City),0.7321950647571176,Queens County Inn and Suites Long Island City,0.7686856790721304,Howard Johnson by Wyndham Long Island City,0.8061782545046405
+752,1484721,Brooklyn Suites Classon Ave,Brooklyn Suites,0.75,McCarren Hotel & Pool,0.9063414188418306,Hotel BPM Brooklyn,0.9094642539574814
+753,1719217,Sheraton Brooklyn New York Hotel,Holiday Inn Brooklyn Downtown,0.7534015190419642,New York Marriott at the Brooklyn Bridge,0.7624321052722361,Hotel Indigo,0.7912018866368673
+754,1917361,Easyliving-harlem,The West Townhouse,0.746453723581445,San Fermin B&B,0.7664503167515431,Parkside Bed & Breakfast,0.7763932022500211
+755,7778097,EVEN Hotel Times Square South,Crowne Plaza HY36 Midtown Manhattan,0.8283977795447381,EVEN Hotel New York - Midtown East,0.8689716167927305,Hotel 50 Bowery NYC,0.9034065108802979
+756,11768753,Motel 6 Long Island City - Queens,Feather Factory Hotel,0.7829034636580547,Howard Johnson by Wyndham Long Island City,0.8771953156245189,Days Inn by Wyndham Long Island City,0.8809954744362971
+757,14080305,Hotel Nirvana,Feather Factory Hotel,0.7628148026801728,Voyage Hotel,0.7941472211289947,Queens County Inn and Suites Long Island City,0.8283297793849285
+758,93618,Waldorf Astoria New York,The Plaza,0.9217672083041348,Lotte New York Palace,0.9492268495038373,The St. Regis New York,0.9517013979049713
+759,99762,Hotel Giraffe by Library Hotel Collection,Casablanca Hotel by Library Hotel Collection,0.6736107264764364,Library Hotel by Library Hotel Collection,0.6798051736182071,Hotel 50 Bowery NYC,0.8214067939754768
+760,320562,YourStay MidTown Apartments,Oakwood at 6th Avenue,0.7763932022500211,Times Square Towers,0.841886116991581,AKA United Nations,0.8974021647914846
+761,15641394,Resavoir Apartments,Novotel New York Times Square,1.0,Rostel,1.0,Times Square Beds,1.0
+762,112066,The Maxwell New York City,"The Lexington Hotel, Autograph Collection",0.85772815668473,Hudson New York,0.8899749576452217,Renaissance New York Hotel 57,0.9086914750154076
+763,589506,Bridgestreet The Sheffield,Dream Midtown,0.9594779550763446,InterContinental New York Times Square,0.9728035853389789,Hudson New York,0.9782865083646026
+764,609346,Candy Hill Harlem,The Gallery House,0.6464466094067263,Harlem Grand,0.8663693790437879,Heart of Harlem,0.8709005551264195
+765,609602,Seafarers & International House,U.S. Pacific Hotel,0.8663369010700536,Hotel 31,0.8799726000366639,Leo House,0.8855593918115813
+766,1026626,Ravel Hotel Trademark Collection,The Paper Factory Hotel,0.832142643293532,Boro Hotel,0.8405294594612982,Z NYC Hotel,0.8787761968509178
+767,1034306,Travelodge by Wyndham Jersey City,Kennedy Suites,0.6220355269907728,Cesar Suites At Harborside,0.6220355269907728,Pelican New Jersey Residences,0.6726731646460113
+768,1151170,The New York Loft Hostel,Hotel Lynx,0.8075499102701247,J-Stel,0.882148869802242,Urban Cowboy B&B,0.894590744661054
+769,1203394,Lafayette International Guesthouse,Shepherd Guest House,0.6464466094067263,Bella Guest House,0.6464466094067263,U Hotel,0.7113248654051871
+770,1544386,Brooklyns Best,Novotel New York Times Square,1.0,Times Square Beds,1.0,The Assemblage John Street,1.0
+771,2309186,"The LOOK Hotel, Red Hook, an Ascend Hotel Collection Member",Hotel BPM Brooklyn,0.8973421133756267,Brooklyn Motor Inn,0.8989847455447789,Super 8 by Wyndham Brooklyn / Park Slope Hotel,0.9109129193625252
+772,2410178,East River by Central Park Suites,Solita Soho Hotel,0.9226176767465863,DoubleTree Suites by Hilton Hotel New York City - Times Square,0.964078939594645,Park Lane Hotel,0.9666481327017465
+773,7593282,Willamsburg Apartments,770Suites,0.5000000000000001,Sheraton Brooklyn New York Hotel,0.8989847455447789,Fairfield Inn & Suites New York Brooklyn,0.9063414188418306
+774,13338562,Dekalb Homestay,YOTEL New York,1.0,Novotel New York Times Square,1.0,The Assemblage John Street,1.0
+775,93627,West Side YMCA,The Vanderbilt YMCA,0.6741854174088162,Broadway Hotel and Hostel,0.8035035708813512,The Harlem YMCA,0.8185939364096927
+776,99387,Avalon Hotel,YOTEL New York,0.8620294327664874,The Bentley Hotel,0.8900401680290698,Arthouse Hotel New York City,0.8977831706774557
+777,557499,Mount Royal Hotel & Hostel,Chelsea Center Hostel,0.6220355269907728,Senton Hotel,0.7817821097640076,La Semana Hotel,0.8110177634953863
+778,10628155,Holiday Inn Express & Suites Jersey City North - Hoboken,Candlewood Suites Jersey City,0.6100243270680654,Courtyard by Marriott Jersey City Newport,0.680901176578868,Ramada by Wyndham Jersey City,0.7221954265073307
+779,15637691,The Modern @ Rockefeller,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+780,93568,"The Algonquin Hotel Times Square, Autograph Collection",New York Marriott East Side,0.8903829904688595,"The Lexington Hotel, Autograph Collection",0.9153578996574945,The Iroquois New York,0.9163706004290384
+781,1130880,Days Inn by Wyndham Long Island City,La Quinta Inn Queens (New York City),0.8128131090411782,Ramada by Wyndham Long Island City,0.8196889769755326,Howard Johnson by Wyndham Long Island City,0.8446552633808532
+782,2363008,Allcity-Grand Suites,W New York - Downtown,0.9199359230974564,AC Hotel by Marriott New York Times Square,0.9456874553406431,"Club Quarters Hotel, World Trade Center",0.9548246048547374
+783,3344640,Refinery Hotel,Archer Hotel New York,0.8734696794539867,The Knickerbocker Hotel,0.8786341823334158,The Langham New York Fifth Avenue,0.8902520866772712
+784,12423168,The Chauncey House,Novotel New York Times Square,1.0,Rostel,1.0,YOTEL New York,1.0
+785,15236224,The Court - A St Giles Hotel,Rainbow Guesthouse,0.8787321874818335,Hotel Five44,0.9497004545172143,The Mansfield,0.9607843137254902
+786,125274,The Redbury New York,The James New York-NoMad,0.9320340940216204,Hudson New York,0.9355857515192049,The Evelyn,0.937261889754
+787,1149402,"The Standard, East Village","The Standard, High Line",0.8438058524052077,The Bowery Hotel,0.8600559664223844,PUBLIC,0.8682208594987243
+788,1880282,Thomas Family B&B,Soho Bed and Breakfast,0.5527864045000421,Alma Mathews House,0.5527864045000421,Macy's Apartments,0.717157287525381
+789,1947226,Harlem Hospitality House,Times Square Beds,1.0,Novotel New York Times Square,1.0,The Assemblage John Street,1.0
+790,93562,Stewart Hotel,YOTEL New York,0.8013605474811085,Hotel 50 Bowery NYC,0.8293470749544962,Crowne Plaza Times Square Manhattan,0.8370238289939126
+791,246778,Hyatt Regency Jersey City,The Westin Jersey City Newport,0.6058994640988077,Hyatt House Jersey City,0.6672429465488525,DoubleTree by Hilton Hotel & Suites Jersey City,0.6840892982222906
+792,273530,The Maritime Hotel,Dream Downtown,0.9004300103776537,"The Standard, High Line",0.9142792876690392,The High Line Hotel,0.9168189616367611
+793,277882,Hampton Inn Manhattan-Seaport-Financial District,Hampton Inn Manhattan / Downtown - Financial District,0.932299679961367,Fairfield Inn New York Manhattan/Financial District,0.9347949336303374,Third Ave House,0.947295372330527
+794,501626,Jazz on the Town Hostel,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+795,1237370,Living Manhattan,The Village House NY,0.7903430326556163,388 Bergen House,0.803883864861816,Furnished Dwellings,0.803883864861816
+796,93445,The Blakely New York,Inn New York City,0.9068515530032464,Warwick New York,0.9218566126179338,Chambers Hotel,0.9351142605123494
+797,99333,Washington Jefferson Hotel,Inn New York City,0.9158669646229977,The Blakely New York,0.9414297713009642,Avalon Hotel,0.9433319117945833
+798,259717,Efuru Guest House,Arlington Place Bed and Breakfast,0.7958758547680684,Riff Chelsea,0.8663693790437879,Heart of Harlem,0.8709005551264195
+799,1139717,Holiday Inn Express New York City Times Square,Holiday Inn Express Manhattan Times Square South,0.8434894121646169,Holiday Inn New York City - Times Square,0.874224152928803,Holiday Inn Express Manhattan Midtown West,0.8917976137573322
+800,6883205,1 Hotel Central Park,The Quin Central Park by Hilton Club,0.8404644284649547,The Langham New York Fifth Avenue,0.8808922816586892,"Mandarin Oriental, New York",0.8857362272676758
+801,13390725,Mildred at the Park,Quality Inn Near Sunset Park,0.9183503419072274,Chelsea International Hostel,0.9398070734571154,Fairfield Inn & Suites New York Queens/Queensboro Bridge,0.9493630316458167
+802,93517,Paramount Hotel New York,Row NYC Hotel,0.7983458422930165,Hotel Edison Times Square,0.821789988572026,Hotel Mela,0.8529961427234365
+803,1367373,Trip and the City,The Broome,0.947000105999682,The Towers at Lotte New York Palace,0.9690507769704914,Holiday Inn New York City - Times Square,0.9738288038704893
+804,1970381,Saint Marks Place Studio Apartments,East Village Suites,0.5917517095361369,Chelsmore Apartments,0.6984886554222364,East Village Apartments by Sudha,0.8829588528038694
+805,2339661,Exquisite Guesthouse & Suites,J-Stel,0.8232233047033631,Super 8 by Wyndham Brooklyn / Park Slope Hotel,0.8333333333333334,Kings Hotel,0.8333333333333334
+806,7595213,Four Points by Sheraton New York Downtown,Four Points by Sheraton Midtown - Times Square,0.916723687262857,Fairfield Inn New York Manhattan/Financial District,0.9258322669069764,AC Hotel New York City Downtown,0.9264503313494183
+807,10728525,The Williamsburg Hotel,"The Hoxton, Williamsburg",0.6770180291125171,Wythe Hotel,0.6823555627659332,The William Vale,0.7266304908663148
+808,15018701,Voyage Hotel,Hotel Nirvana,0.7941472211289947,Howard Johnson by Wyndham Brooklyn,0.8651600275073515,Mayflower Boutique Hotel,0.8738687552226218
+809,15113805,Courtyard New York Manhattan/Midtown west,Four Points by Sheraton Manhattan Midtown West,0.8968578753741206,Courtyard New York Downtown Manhattan / World Trade Center Area,0.925464400750007,"The Algonquin Hotel Times Square, Autograph Collection",0.9313197180256555
+810,80075,Amsterdam Court Hotel,The Gallivant Times Square,0.904615325825834,Mayfair Hotel,0.9104232679634174,Hudson New York,0.9194584748125911
+811,1214411,Kings Hotel,Hotel Lynx,0.8075499102701247,Exquisite Guesthouse & Suites,0.8333333333333334,La Quinta Inn & Suites Brooklyn Downtown,0.8666666666666667
+812,1547467,Times Square World,Kore Properties - 92,0.6464466094067263,Time Square Apartments,0.7086142412928207,Elegant Retreats,0.75
+813,1653963,Sha107 Inn,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+814,4451787,"Club Quarters Hotel, Grand Central",Hotel Boutique At Grand Central,0.8344501250977159,"Club Quarters Hotel, Times Square -Midtown",0.8712250984383497,"Club Quarters Hotel, World Trade Center",0.8877685898707601
+815,12640715,Chelsea Cabins,Worldwide Plaza,0.8585786437626906,Jazz on Columbus Circle,0.8663693790437879,Jazz on the Park,0.8994962184740788
+816,14920907,Mr. C Seaport,NY Away - Luxury Apartments in the Financial District,0.9228483250189541,11 Howard,0.9386262183711271,The Assemblage John Street,0.9408982743732818
+817,93452,Life Hotel,Pod 39 Hotel,0.9307715064876947,The NoMad Hotel New York,0.9373658734170002,Pod 51 Hotel,0.937971432091599
+818,121996,The Gregory Hotel New York,Avalon Hotel,0.9302599510210304,Stewart Hotel,0.9352051458029886,The Roger,0.9415489095404297
+819,1175436,Hotel Olcott,388 Bergen House,0.7327387580875757,WaterView Apartment - New York,0.7817821097640076,La Belle Etoile Hostel,0.7817821097640076
+820,1207052,Bella Guest House,Downtown Athletic Center,0.29289321881345254,Worldwide Plaza,0.29289321881345254,Shepherd Guest House,0.5000000000000001
+821,1845644,Courtyard New York Manhattan/SoHo,Four Points by Sheraton Manhattan SoHo Village,0.799009998482282,Worldwide Plaza,0.8829588528038694,Downtown Athletic Center,0.8829588528038694
+822,6385164,citizenM New York Times Square,The Time New York,0.875342545326744,Casablanca Hotel by Library Hotel Collection,0.8853219624252504,Archer Hotel New York,0.8967451295506966
+823,7183500,Oyo Bed & Breakfast,Days Inn by Wyndham Brooklyn,0.8456966500379081,Phoenix Hotel,0.8456966500379081,Greenpoint YMCA,0.8804771390665607
+824,9015308,Central Park West Hostel,The Vanderbilt YMCA,0.797731888972889,Broadway Hotel and Hostel,0.8050547179240726,Manhattan Bowery Lodge,0.8083446146548792
+825,12653324,770Suites,Willamsburg Apartments,0.5000000000000001,Upper Yorkville Suites,0.6464466094067263,Fairfield Inn & Suites New York Brooklyn,0.9063414188418306
+826,290932,Saddle Down Bed & Breakfast,Pointe Plaza Hotel,0.9272607032546692,The Condor Hotel,0.9298137593656404,Casablanca Hotel by Library Hotel Collection,0.9767378947400382
+827,575732,Renaissance New York Hotel 57,"The Lexington Hotel, Autograph Collection",0.8867310566757536,The Maxwell New York City,0.9086914750154076,New York Marriott East Side,0.9130090462878124
+828,1563892,Flatiron Hotel,Lord & Moris - Times Square Hotel,0.9239530899370626,Broadway Plaza Hotel,0.9424591124623665,Four Points by Sheraton Manhattan Chelsea,0.9487291836948131
+829,1572980,Crosby Street Hotel,Greenwich Hotel,0.8533367920167303,The Whitby Hotel,0.8624811617646365,The Broome,0.8648607403940828
+830,2556148,Wythe Hotel,The Williamsburg Hotel,0.6823555627659332,The William Vale,0.7015582798644595,"The Hoxton, Williamsburg",0.7515290663315952
+831,12722932,Macy Empire,Macy's Apartments,0.8709005551264194,Broadway Suite,0.8754854387270619,NYC Guesthouse,0.8979379273840342
+832,224226,City Club Hotel,"Club Quarters Hotel, Times Square -Midtown",0.950673637633301,Macy's Apartments,0.951349574458948,Executive Hotel LeSoleil,0.957421636552513
+833,256738,Envoy Club Suites,The Milburn Hotel,0.9050842004247501,Oakwood at The Nash,0.9139337034176129,New York Marriott Downtown,0.9537749836478976
+834,548322,Brooklyn Motor Inn,Atlantic Motor Inn,0.7327387580875757,Harbor Motor Inn,0.7817821097640076,Red Carpet Inn,0.8110177634953863
+835,586466,Abode Bed and Breakfast,ComfortStayNYC,0.6464466094067263,Margot Guest House,0.75,The Sutton Residence,0.75
+836,649058,Hotel Alexander,Sutton Court Hotel Residences,0.8556624327025936,Living Manhattan,0.8867722965855405,Phillips Club,0.894590744661054
+837,654946,Regina's New York Bed & Breakfast,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+838,1478626,Dupuy's Landing Guest House,A Garden In Chelsea,0.7942622000505442,Abode Bed and Breakfast,0.7958758547680684,The Sutton Residence,0.7958758547680684
+839,2600546,BridgeStreet The Pier,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+840,7731042,Explore Hotel and Hostel,She-Fah Hotel,0.33333333333333315,Kensho homes,0.7113248654051871,Travelodge by Wyndham Jersey City,0.7817821097640076
+841,8040162,Urban International Life,Candy Hostel,0.5917517095361369,Inter-Continental Central Park South New York,0.7226499018873854,Renaissance New York Chelsea Hotel,0.7327387580875756
+842,8043362,A & Faye Bed and Breakfast,Bibi's Garden Bed and Breakfast,0.5000000000000001,At Home In Brooklyn,0.591751709536137,Rugby Gardens B&B,0.6464466094067263
+843,9981282,Chelsea Pods,Prive,0.9166666666666666,The International Cozy Inn,0.9393660937409167,Chelsea Cabins,0.95
+844,15634530,Dharma Home Suites JC at the Arts District,Dream Home Luxury Suites,0.29289321881345254,Skyline Luxury Home Suites At Newport II,0.4654775161751513,Grove Pointe Apartments,0.591751709536137
+845,93586,The Mansfield,Elk Hotel,0.9191547916545557,Night Times Square,0.9482852340426351,Westgate New York City,0.9490273364454214
+846,113298,Four Seasons Hotel New York,"The Ritz-Carlton New York, Central Park",0.7336526676288184,The Peninsula New York,0.760663828285653,The St. Regis New York,0.7796914941823561
+847,281234,Four Points by Sheraton Manhattan Chelsea,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9131113685585266,Four Points by Sheraton Manhattan SoHo Village,0.9182746352075206,Four Points by Sheraton Midtown - Times Square,0.9222724534425999
+848,455186,JW Marriott Essex House New York,"The Ritz-Carlton New York, Central Park",0.8713225044272329,The Plaza,0.9013504589141514,The St. Regis New York,0.9024027382909167
+849,667410,Candy Hostel,Urban International Life,0.5917517095361369,Manhattan Hostel,0.5917517095361369,The Grant Hotel,0.7113248654051871
+850,1207058,The Stratford Manor,Times Square Beds,1.0,Novotel New York Times Square,1.0,Heart of Harlem,1.0
+851,1751698,Super 8 by Wyndham Brooklyn / Park Slope Hotel,Exquisite Guesthouse & Suites,0.8333333333333334,Park Slope Inn,0.850928801500014,Super 8 by Wyndham Long Island City LGA Hotel,0.8609903906286168
+852,2600466,BridgeStreet 50 Columbus,Times Square Beds,1.0,Heart of Harlem,1.0,Rostel,1.0
+853,9984018,Metro Midtown Suites New York,Green Holidays Apartments,0.9410744349011211,710 Guest Suites,0.9422649730810374,Brooklyn Suites,0.9489689636920171
+854,15521042,Racpanos Modern Stay on Union Street,Racpanos Modern Stay on Forrest Street,0.29289321881345254,Racpanos Modern Stay On Ocean Avenue,0.5,Red Lion Inn & Suites Long Island City,0.8895684739251535
+855,93390,Hotel Belleclaire,Arthouse Hotel New York City,0.8570843735451077,Excelsior Hotel,0.8625615947396054,The Lucerne Hotel,0.8789179371439829
+856,671822,John Street Suites By Aba,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Times Square Beds,1.0
+857,1737422,Fit Hotel,Kore Properties 83,0.42264973081037416,The Grant Hotel,0.591751709536137,United Nations Apartment Hotel,0.6666666666666665
+858,5535310,Riverside Towers,Nesva Hotel,0.9009852457023325,Hotel Nirvana,0.9101973489866125,Wyndham Garden Long Island City,0.9209430584957905
+859,7156046,Neptune Hotel,Garden Green Bed and Breakfast,0.7113248654051871,J-Stel,0.7958758547680684,Greenpoint YMCA,0.8048199854102933
+860,7594062,Cesar Suites at Greene,Hotel 50 Bowery NYC,1.0,YOTEL New York,1.0,Novotel New York Times Square,1.0
+861,8530894,Hotel Cliff,Chez Michelle,0.7788370657676543,Senton Hotel,0.7958758547680684,La Semana Hotel,0.8232233047033631
+862,12199886,Hilton Garden Inn New York Times Square South,Hilton Garden Inn New York - Times Square Central,0.8943534763149601,Hilton Garden Inn Times Square,0.8985907212824271,Hilton Garden Inn New York/West 35th Street,0.8999107448423347
+863,2367217,Harlem Guest House,Heart of Harlem,1.0,Times Square Beds,1.0,YOTEL New York,1.0
+864,9783537,Dharma Home Suites JC at Grove Station II,Dharma Home Suites JC at Grove Station,0.6666666666666665,Dharma Home Suites JC At Exchange Place,0.7327387580875756,Skyline Luxury Home Suites At Newport II,0.7817821097640076
+865,9860337,The Park Ave North,The Central Park North,0.8260399331974814,Saint Nicholas Inn,0.8738113837187328,Royal Park Hotel,0.8928893227218552
+866,99302,The Bentley Hotel,YOTEL New York,0.8538840476741587,Arthouse Hotel New York City,0.863737875589102,Stewart Hotel,0.8720807958817689
+867,209382,Millennium Hilton New York One UN Plaza,Millennium Hilton New York Downtown,0.8254501205612811,Doubletree by Hilton New York Times Square West,0.9033534043414588,DoubleTree by Hilton Hotel Metropolitan - New York City,0.9093870475550146
+868,235238,W New York - Times Square,Renaissance New York Times Square Hotel,0.8158636886757553,New York Marriott Marquis,0.8342594940360412,The Westin New York at Times Square,0.8774712320406303
+869,1048678,The Hotel 91,Royal Park Hotel,0.846330344561757,The Central Park North,0.8571227740388742,Chelsea Inn - 17th Street,0.8690211313271134
+870,1146086,Oakwood 24 East 38th Street,Furnished Dwellings,0.591751709536137,Apt 168,0.7113248654051871,The Village House NY,0.7817821097640076
+871,2452838,The Box House Hotel,Henry Norman Hotel,0.6829242094892224,Franklin Guesthouse,0.7407056089744994,The Brooklyn,0.7763015276135536
+872,6899174,The Central Park North,Royal Park Hotel,0.8212276269349035,The Park Ave North,0.8260399331974814,Broadway Hotel and Hostel,0.8520630693184253
+873,10022886,Franklin Guesthouse,Henry Norman Hotel,0.6611309854320677,The Box House Hotel,0.7407056089744994,Hotel Le Jolie,0.785889777934321
+874,13145062,Quality Inn Near Sunset Park,"Insignia Hotel, an Ascend Hotel Collection Member",0.762653558414428,Days Inn by Wyndham Brooklyn Marine Park,0.7883049012971373,Holiday Inn Express Brooklyn,0.8412231627925111
+875,15631974,Seaman Apartment,La Quinta Inn & Suites Brooklyn East,0.8585786437626906,BEST WESTERN Gregory Hotel,0.8729998729998095,Holiday Inn Express Brooklyn,0.9351796276447836
+876,15734630,Global Luxury Suites at Symphony House,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+877,93335,The Kimberly Hotel,Hotel 50 Bowery NYC,0.860588778585194,Archer Hotel New York,0.8864326253052313,The Bryant Park Hotel,0.8899936278977365
+878,122007,Manhattan Broadway Hotel,Manhattan Lodging,0.875,Elk Hotel,0.875,Midtown West Hotel,0.9238490376149786
+879,217623,"Club Quarters Hotel, Wall Street","Club Quarters Hotel, World Trade Center",0.8017079732032668,World Center Hotel,0.8959190758424408,"Club Quarters Hotel, Grand Central",0.9108484966826963
+880,625815,Rugby Gardens B&B,The Blue Porch Bed & Breakfast,0.6220355269907728,Bibi's Garden Bed and Breakfast,0.6464466094067263,A & Faye Bed and Breakfast,0.6464466094067263
+881,1219095,Midtown East Residence by Globe Quarters,AREI's Guesthouse,0.5917517095361369,Metro Apartments,0.7958758547680684,Thomas Family B&B,0.8174258141649446
+882,1547031,Signature Properties,Times Square Beds,1.0,Novotel New York Times Square,1.0,Rostel,1.0
+883,6582679,The William,710 Guest Suites,0.9233738971823079,Chez Michelle,0.9400838240105941,Murray Hill East Suites,0.942530422886731
+884,92414,Econo Lodge Jersey City,Rodeway Inn,0.683772233983162,Haiban Inn,0.726138721247417,Holiday Inn Express & Suites Jersey City - Holland Tunnel,0.7763932022500211
+885,93566,The Surrey,Hotel Plaza Athenee,0.7857142857142858,The Mark,0.789034983398301,"The Pierre, A Taj Hotel, New York",0.8293678901806333
+886,121982,Incentra Village Hotel,388 Bergen House,0.901941932430908,Greenwich Village Habitue,0.913252760205064,Washington Square Hotel,0.920155578043313
+887,655870,Lafayette House,The Gatsby Hotel,0.9354502775632098,"The Standard, East Village",0.9431017568641838,The Bowery Hotel,0.947295372330527
+888,1092222,Jumel Terrace Bed and Breakfast,Comfort Inn Sunset Park / Park Slope,0.8063508326896291,102 Brownstone,0.8174258141649446,Chez Michelle,0.8384854293825503
+889,1235582,W Hoboken,Hyatt Regency Jersey City,0.7967530575600055,The Westin Jersey City Newport,0.8335182104469933,Dharma Home Suites Hoboken at Grand,0.8492443277111181
+890,3569150,Bowery Grand Hotel,World Hotel,0.790450945659597,The Harlem YMCA,0.8542054917106169,Central Park West Hostel,0.8557345474047205
+891,5539454,Laguna,Times Square Beds,1.0,Novotel New York Times Square,1.0,YOTEL New York,1.0
+892,15517438,Manhattan Studio Apartments,Empire 120,0.6464466094067263,The Franklin,0.9611924737146833,Fairfield Inn & Suites New York Queens/Queensboro Bridge,0.9641942562980284
+893,75617,City View Inn,Days Inn by Wyndham Long Island City,0.8729998729998095,Super 8 by Wyndham Long Island City LGA Hotel,0.8957427929714626,Fairfield Inn New York Long Island City / Manhattan View,0.9037749551350623
+894,99425,"Martinique New York on Broadway, Curio Collection by Hilton","The Renwick Hotel New York City, Curio Collection by Hilton",0.8891331705852126,Doubletree Hotel Chelsea - New York City,0.9094071155825652,"The Bernic Hotel New York City, Tapestry Collection by Hilton",0.9240931900946114
+895,224225,Broadway Tower,Churchill at 15 Park Row,0.42264973081037416,National at Park Towers,0.591751709536137,Landmark Guest Rooms,0.7642977396044841
+896,281697,Wyndham Midtown 45,Wingate by Wyndham Manhattan Midtown,0.9362423286936662,EVEN Hotel New York - Midtown East,0.9537618757456485,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,0.9674355195487082
+897,1027681,Fairfield Inn New York Long Island City / Manhattan View,Inn New York City,0.8869496306073145,City View Inn,0.9037749551350623,IBEROSTAR 70 Park Avenue Hotel,0.9131801379740151
+898,1158753,Kimpton Ink48 Hotel,Kimpton Hotel Eventi,0.8555934350257917,Kimpton Muse Hotel,0.8663822213503819,Crowne Plaza HY36 Midtown Manhattan,0.9412691208089381
+899,1165409,Hotel Delmonico,Oxbridge Midtown East Apartments,0.6666666666666665,The Melrose Hotel,0.6666666666666665,Highbridge House,0.7113248654051871
+900,1427297,House of the Redeemer,Alma Mathews House,0.42264973081037416,Sacred Heart Residence,0.5635642195280153,Econolodge,0.7113248654051871
+901,1601249,Hilton New York Fashion District,Doubletree Hotel Chelsea - New York City,0.8496158764517191,Hilton Garden Inn New York/Manhattan-Chelsea,0.9049985749679368,"Martinique New York on Broadway, Curio Collection by Hilton",0.9247451020643862
+902,5523553,The Paper Factory Hotel,Boro Hotel,0.6814655807698824,Aloft Long Island City - Manhattan View,0.7730354021810422,Hotel Vetiver,0.776181028312957
+903,7605857,Aloft Manhattan Downtown Financial District,Fairfield Inn New York Manhattan/Financial District,0.9059163485802654,Moxy NYC Downtown,0.9113974822621569,Aloft New York Midtown,0.9268238266735398
+904,12514017,Pod Brooklyn,McCarren Hotel & Pool,0.8043093058129351,BKLYN House,0.8111298415342084,Hotel Le Jolie,0.8464009621630968
+905,93379,Hotel 17,Village Guest House,0.875,Candy Hostel,0.8979379273840342,Central Park Inn,0.9410744349011211
+906,93507,New York Marriott Marquis,Renaissance New York Times Square Hotel,0.8200961893706595,W New York - Times Square,0.8342594940360412,Crowne Plaza Times Square Manhattan,0.8355723265528395
+907,805827,AKA Central Park,AKA Times Square,0.8594912040716203,AKA United Nations,0.8612624048761408,AKA Sutton Place,0.8980705617124749
+908,1235523,Sleep Inn Brooklyn,Harbor Motor Inn,0.6666666666666665,NYC Guesthouse,0.7113248654051871,The Vue Express @ 39th Street,0.8174258141649446
+909,1913539,West 57 Apt Corporation,Beekman Apartments,0.9046537410754407,59th Street Bridge Suites,0.9325800137536758,Dharma Home Suites JC At Exchange Place,0.94115101136635
+910,11775683,Beekman Tower,Churchill At Marbella,0.29289321881345254,Grove Pointe Apartments,0.591751709536137,M Suites at Newport,0.6464466094067263
+911,15679811,Deedee's Downtown Flats,The St. Regis New York,0.7442269777606723,"Mandarin Oriental, New York",0.7467095953452453,Four Seasons Hotel New York,0.760663828285653
+912,113311,The Peninsula New York,The Evelyn,0.9293279600909224,Midtown Lodging,0.9318005660529527,The Roger,0.9375298733387575
+913,122015,HGU New York,United Nations Apartment Hotel,0.591751709536137,Senton Hotel,0.591751709536137,Fit Hotel,0.591751709536137
+914,616735,The Grant Hotel,West Side YMCA,0.9698625612660544,The Vanderbilt YMCA,0.9716247823080417,Skyline Hotel,0.9754263406408504
+915,674463,Times Square Dream Hostel,The Residences by Hilton Club,0.7958758547680684,The Hilton Club - New York,0.9024099927051467,NY Moore Hostel,0.9037749551350623
+916,1467295,Imhotep New York Bed & Breakfast,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+917,7080095,Lyghthouse Inn,Manhattan Lodging,0.8571428571428572,NY Away - Luxury Apartments in the Financial District,0.8989847455447789,Oakwood 24 East 38th Street,0.9175213901157677
+918,11798431,Studio-plus Apartment,Fairfield Inn New York Manhattan/Financial District,0.874733317226789,Residence Inn New York Downtown Manhattan World Trade Center Area,0.8938592165233895,Courtyard New York Downtown Manhattan / World Trade Center Area,0.9090674214039369
+919,12906143,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,The Ludlow New York City,0.8544048837886223,"The Standard, East Village",0.8600559664223844,"The Beekman, A Thompson Hotel",0.892052137793366
+920,634696,The Bowery Hotel,AKA Central Park,0.8594912040716203,AKA United Nations,0.9052382173014114,AKA Sutton Place,0.916455101246622
+921,655944,AKA Times Square,Garden Green Bed and Breakfast,0.6464466094067263,Neptune Hotel,0.7958758547680684,Exquisite Guesthouse & Suites,0.8232233047033631
+922,6560712,J-Stel,Margot Guest House,0.6464466094067263,Stay the Night Bed & Breakfast,0.6464466094067263,Manhattan Studio Apartments,0.6464466094067263
+923,6581320,Empire 120,Sleep Inn - Long Island City,0.862639436051311,Hotel Nirvana,0.9101973489866125,Pointe Plaza Hotel,0.9272607032546692
+924,7290568,Sleep Inn,The Gatsby Hotel,0.8376202367904177,The Ridge Hotel,0.8616503523676333,The Allen Hotel,0.896549263924704
+925,7939016,Orchard Street Hotel,Wythe Hotel,0.7015582798644595,1 Hotel Brooklyn Bridge,0.7103366259725039,The Williamsburg Hotel,0.7266304908663148
+926,8738248,The William Vale,Moxy NYC Downtown,0.8654654412007375,AC Hotel by Marriott New York Times Square,0.9049530468461255,Courtyard New York Downtown Manhattan / World Trade Center Area,0.9192531008125076
+927,12932808,AC Hotel New York City Downtown,A accomodation B&B,0.29289321881345254,Comfort Inn Brooklyn,0.591751709536137,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),0.6464466094067263
+928,254281,"A Hospitality Company, Inc.",Hotel Wales,0.9468505996547266,"The Carlyle, A Rosewood Hotel",0.954498424480671,La Quinta Inn & Suites New York City Central Park,0.9604406113935382
+929,613705,A Town House Stay,Bridgestreet 85 John Street,0.7418011102528389,Village Apartments,0.7418011102528389,Greenwich Village Habitue,0.7846472391767338
+930,815689,Jones Street Guesthouse,Aloft New York Brooklyn,0.9440983005625052,Best Western Plus Hospitality House,0.9468505996547266,The Condor Hotel,0.9503708333014534
+931,1207497,TerraceStay,Brooklyn Suites,0.6464466094067263,Holiday Inn Brooklyn Downtown,0.9178005063473214,Hilton Brooklyn New York,0.9226176767465863
+932,1787721,Carroll Gardens House,Hotel RL Brooklyn,0.8927887465162205,Wythe Hotel,0.9209430584957905,Aloft New York Brooklyn,0.9209430584957905
+933,7691465,Brooklyn Student Dormitory - Jefferson Avenue,Pod Brooklyn,0.8111298415342084,Bogart Hotel,0.827025398494584,The Brooklyn,0.8386153164728127
+934,8700361,BKLYN House,Jumel Terrace Bed and Breakfast,0.894590744661054,PUBLIC,0.9582789736668168,Broadway Plaza Hotel,0.9588131957856523
+935,15237449,Artezen Hotel,West Side YMCA,0.6741854174088162,Broadway Hotel and Hostel,0.7654038388493734,The Harlem YMCA,0.7950415126995516
+936,113325,The Vanderbilt YMCA,"Club Quarters Hotel, Grand Central",0.8712250984383497,"Club Quarters Hotel, opposite Rockefeller Center",0.8785293239190988,Hotel Boutique At Grand Central,0.9002639971865656
+937,223021,"Club Quarters Hotel, Times Square -Midtown",Downtown Athletic Center,0.0,Bella Guest House,0.29289321881345254,Brooklyn Suites,0.6464466094067263
+938,1161773,Worldwide Plaza,Downtown Athletic Center,0.0,Bella Guest House,0.29289321881345254,Brooklyn Suites,0.6464466094067263
+939,1452077,Margot Guest House,ComfortStayNYC,0.6464466094067263,Empire 120,0.6464466094067263,Stay the Night Bed & Breakfast,0.75
+940,1947693,W55NY,AKA Central Park,0.9244071053981545,McCarren Hotel & Pool,0.9337733821467478,The Whitby Hotel,0.9452824344835418
+941,15734445,The Gallery House,Candy Hill Harlem,0.6464466094067263,Manhattan Bowery Lodge,0.9410744349011211,Edge Hotel,0.9501245331946183
+942,93475,New York Marriott East Side,"The Lexington Hotel, Autograph Collection",0.8834983497320394,"The Algonquin Hotel Times Square, Autograph Collection",0.8903829904688595,JW Marriott Essex House New York,0.9113151563864051
+943,93603,"The Pierre, A Taj Hotel, New York",The Surrey,0.8293678901806333,Hotel Plaza Athenee,0.845231646422343,The Sherry-Netherland Hotel,0.8639966213137169
+944,122019,Central Park Inn,Menno House,0.7891814893221081,La Belle Etoile Hostel,0.8639172365120457,The Sutton Residence,0.882148869802242
+945,612259,Hotel 309,Royal Park Hotel,0.9131278091287117,The Pina - A Private Residence Hotel,0.9183503419072274,Hudson Street Apartments at Liberty Towers,0.9183503419072274
+946,1485603,Comfort Inn Times Square West,Comfort Inn Midtown West,0.8714260912937621,Aloft Harlem,0.9250731350734644,NYC Hostel,0.9292893218813453
+947,15744547,Luxury 2 Bedrooms Upper West Side Manhattan,Hampton Inn Manhattan - Madison Square Garden Area,0.9415793762163014,The Towers at Lotte New York Palace,0.9562311890467592,Park Terrace Hotel on Bryant Park,0.9648635815536847
+948,93610,Royalton New York Hotel,Royalton Park Avenue,0.8894530296669456,InterContinental New York Barclay,0.927913503848955,InterContinental New York Times Square,0.9294484234682626
+949,646442,Signature Suites The Sullivan Suites,Windsor Hotel,0.9223849474293667,Washington Square Hotel,0.9259766789802395,Soho 54,0.9560625224836253
+950,1199530,Oxbridge Midtown East Apartments,Hotel Delmonico,0.6666666666666665,Highbridge House,0.7113248654051871,Hotel Park 79,0.7958758547680684
+951,2476202,Sumner Hotel,Mayflower Boutique Hotel,0.9055088817476932,BKLYN House,0.9440983005625052,The Franklin,0.9451178700051548
+952,7934122,Paper Moon Bed & Breakfast,Bogart Hotel,0.8541350085021054,Hotel RL Brooklyn,0.8927887465162205,Best Western Plus Arena Hotel,0.8933996418221948
+953,8776490,"The Bernic Hotel New York City, Tapestry Collection by Hilton","The Renwick Hotel New York City, Curio Collection by Hilton",0.8700757602846096,"Martinique New York on Broadway, Curio Collection by Hilton",0.9240931900946114,"Distrikt Hotel New York City, Tapestry Collection by Hilton",0.9310399211681705
+954,93572,The Dorset,Hotel Metro,0.9390289239150308,Westgate New York City,0.9579668648290801,Park Terrace Hotel on Bryant Park,0.9648635815536847
+955,99332,Ameritania Hotel,Moderne Hotel,0.8733282141123095,Park Central Hotel New York,0.9067844090848981,YOTEL New York,0.9173023733091026
+956,3235844,Pod 39 Hotel,Pod 51 Hotel,0.7634893992448755,YOTEL New York,0.8148812262090552,Pod Times Square,0.8229427875014794
+957,93622,Travel Inn Hotel New York,Hotel St. James,0.9226002482534232,Skyline Hotel,0.9290002973106326,Big Apple Hostel,0.9432495646160834
+958,99382,The Marcel at Gramercy,Freehand New York Hotel,0.9280597135106828,The Lex NYC,0.9296791766967187,The Bentley Hotel,0.9298875552005572
+959,99766,The Roosevelt Hotel,The New Yorker a Wyndham Hotel,0.8281207189265735,Paramount Hotel New York,0.8544582938795703,Hotel Edison Times Square,0.857079356406521
+960,1776438,Pied-A-Terre on Washington Heights,Novotel New York Times Square,1.0,YOTEL New York,1.0,The Assemblage John Street,1.0
+961,7014966,Holiday Inn Manhattan - Financial District,Holiday Inn Express New York City-Wall Street,0.9240638549048609,Holiday Inn New York City - Wall Street,0.9268316506313639,Holiday Inn New York City - Times Square,0.9368152328957247
+962,7736502,Prospect Place Apartment - Hostel,Best Western Plus Arena Hotel,0.8933996418221948,"Brooklyn Way Hotel, BW Signature Collection",0.9230769230769231,Best Western Plus Hospitality House,0.9248353971997171
+963,12551350,Pod Times Square,Pod 39 Hotel,0.8229427875014794,Pod 51 Hotel,0.8297190093311044,YOTEL New York,0.8580529431287683
+964,112041,Larchmont Hotel,Riff Chelsea,0.8619868881315291,Efuru Guest House,0.8709005551264195,Arlington Place Bed and Breakfast,0.894590744661054
+965,1177257,Wall Street District Hotel,Times Square Beds,1.0,Rostel,1.0,Springhills Suites by Marriott,1.0
+966,1529897,La Sienna,International Student Center,0.8932478974632753,Central Park Studios at Lexington Ave. Co.,0.896994759475079,American Dream Hostel,0.9088078494824894
+967,4544425,International Student Residence,Parkside Bed & Breakfast,0.7817821097640076,NY Moore Hostel,0.8320157897736769,J-Stel,0.8456966500379081
+968,13994921,Kensho homes,Downtown Luxury Collection,0.6464466094067263,She-Fah Hotel,0.7113248654051871,Washington Street Apartments at Marbella,0.7113248654051871
+969,224223,"nyma, the New York Manhattan Hotel",The Gallivant Times Square,0.9173637899786051,Hotel Mela,0.9173637899786051,Row NYC Hotel,0.9245249568953627
+970,3556959,Nesva Hotel,Best Western Plus Plaza Hotel,0.7972730042516684,Sleep Inn - Long Island City,0.8231906076356097,LIC Hotel,0.8345123537057806
+971,13131999,Gramercy Townhouse by Sudha,East Village Apartments by Sudha,0.8344788222795264,Lafayette International Guesthouse,0.882148869802242,Chic&Budget New York,0.894590744661054
+972,224096,Courtyard by Marriott Jersey City Newport,The Westin Jersey City Newport,0.6747959149684135,Holiday Inn Express & Suites Jersey City North - Hoboken,0.680901176578868,Candlewood Suites Jersey City,0.6878467110295532
+973,224224,"The Ritz-Carlton New York, Central Park",Four Seasons Hotel New York,0.7336526676288184,The St. Regis New York,0.7412370691894492,"Mandarin Oriental, New York",0.792330347339534
+974,607712,"Club Quarters Hotel, opposite Rockefeller Center",The Jewel facing Rockefeller Center,0.8627397608702443,"Club Quarters Hotel, Times Square -Midtown",0.8785293239190988,3 West Club,0.8894346715423826
+975,1217376,36 Hudson Hotel,Hudson New York,0.900117938477172,Hudson River Hotel,0.9060087460014451,The Quincy Guesthouse,0.9422649730810374
+976,1397856,Radio City Apartments,Metro Apartments,0.9299859957985995,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY",0.9370433619285164,Broadway Suite,0.9430558104321357
+977,1940832,The Viridian,YOTEL New York,1.0,Times Square Beds,1.0,Rostel,1.0
+978,12257376,The Pina - A Private Residence Hotel,United Nations Apartment Hotel,0.42264973081037416,5th Avenue Suites - New York,0.42264973081037416,Sugar Hill Suites,0.5
+979,12816864,Giorgio Hotel,Townhouse on Greene Guest House,0.8613249509436927,Ramada by Wyndham Long Island City,0.8646403717789155,Hotel Vetiver,0.8819590277941601
+980,262330,Millennium Hilton New York Downtown,Millennium Hilton New York One UN Plaza,0.8254501205612811,Parker New York,0.916852053212434,New York Marriott Downtown,0.9212480256632547
+981,268218,Oakwood at Longacre House,1600 Broadway on the Square,0.5,Residence Inn by Marriott Weehawken Port Imperial,0.6666666666666667,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,0.7914855859429253
+982,624442,U Hotel Fifth Avenue,The Hotel @ Fifth Avenue,0.9252110622216909,Citadines Connect Fifth Avenue New York,0.9478047784348886,Serene Homes E25,0.9478713964857313
+983,1785018,The James New York - SoHo,Soho Grand Hotel,0.8110636559450146,NoMo SoHo Hotel,0.8167540449963362,SIXTY SoHo,0.8350153324749836
+984,1870778,Westside Pearl,Novotel New York Times Square,1.0,YOTEL New York,1.0,The Assemblage John Street,1.0
+985,3168954,SoHo Garden Hotel,The Hotel 91,0.8752022320772597,Royal Park Hotel,0.8816918684248034,Canal Loft Hotel,0.8931778959230043
+986,8615610,"The Beekman, A Thompson Hotel",The Roxy Hotel Tribeca,0.8805569406851608,The Langham New York Fifth Avenue,0.8850421467249671,Lotte New York Palace,0.888820324807668
+987,11724858,La Maison d'Art,The Harlem Flophouse,0.920444271582427,HGU New York,0.9460836133982808,Carlton Arms Hotel,0.948835548990335
+988,93398,SIXTY SoHo,Soho Grand Hotel,0.7830323957233555,11 Howard,0.8287809563393952,The James New York - SoHo,0.8350153324749836
+989,93526,"The Lexington Hotel, Autograph Collection",The Maxwell New York City,0.85772815668473,New York Marriott East Side,0.8834983497320394,Renaissance New York Hotel 57,0.8867310566757536
+990,224214,The Bryant Park Hotel,Casablanca Hotel by Library Hotel Collection,0.8141449421436933,Archer Hotel New York,0.8171404349983774,Library Hotel by Library Hotel Collection,0.8375702802567454
+991,293462,102 Brownstone,Oakwood Cosmopolitan,0.6464466094067263,Empire 120,0.75,Jumel Terrace Bed and Breakfast,0.8174258141649446
+992,566614,Greenpoint YMCA,Neptune Hotel,0.8048199854102933,NY Moore Hostel,0.8048199854102934,International Student Residence,0.8524577772873365
+993,665814,The Soho Loft,Senton Hotel,0.591751709536137,The Grant Hotel,0.75,ComfortStayNYC,0.75
+994,1383510,Worldwide Plaza,Times Square Towers,0.6464466094067263,Hello Broadway,0.6666666666666667,Chelsea Cabins,0.8585786437626906
+995,1990870,Elk Hotel,Riff Chelsea,0.7327387580875756,Manhattan Broadway Hotel,0.875,Midtown West Hotel,0.8984653834866381
+996,93383,"6 Columbus, Central Park a Sixty Hotel",The Empire Hotel,0.879015259865815,Park Lane Hotel,0.9104545478933855,Hudson New York,0.9267538978822022
+997,208455,The Roxy Hotel Tribeca,Hotel 50 Bowery NYC,0.8357299354383241,Soho Grand Hotel,0.8524744659408399,"The Beekman, A Thompson Hotel",0.8805569406851608
+998,2160455,Menno House,Central Park Inn,0.7891814893221081,Thomas Family B&B,0.8,Macy's Apartments,0.8585786437626906
+999,12440391,Rainbow Guesthouse,The Melrose Hotel,0.7113248654051871,short term stay nyc,0.7113248654051871,The Court - A St Giles Hotel,0.8787321874818335
+1000,12813895,Beachside Apartment Brooklyn,Canal Loft Hotel,0.9417777490260418,Best Western Bowery Hanbee Hotel,0.942926985446465,The Hotel 91,0.9562730530553374
+1001,15070151,"Staypineapple, An Artful Hotel, Midtown New York",Oakwood at Longacre House,0.8888888888888888,5th Avenue Suites - New York,0.9358499700900416,1600 Broadway on the Square,0.9444444444444444
+1002,93359,Econo Lodge Times Square,Econolodge,0.9045572855536334,Mayfair Hotel,0.9379778468607851,Comfort Inn Times Square West,0.9415102348134399
+1003,223023,Hudson New York,Westgate New York City,0.8384545551770366,Row NYC Hotel,0.8445106072282992,Paramount Hotel New York,0.8537938967563772
+1004,267183,World Hotel,Bowery Grand Hotel,0.790450945659597,Morningside Inn,0.8394542662835438,Manhattan Bowery Lodge,0.8511927223889202
+1005,1893423,Metro Apartments,Residences at 51st Street and 7th Avenue,0.7763932022500211,Midtown East Residence by Globe Quarters,0.7958758547680684,Bella Guest House,0.8232233047033631
+1006,8873263,Innside by Melia New York NoMad,Cambria Hotel New York - Chelsea,0.9193128469540122,Hyatt House New York/Chelsea,0.9262195934743053,Doubletree Hotel Chelsea - New York City,0.9302304617935703
+1007,9794351,The Western Corner Hostel,Hotel Boutique At Grand Central,0.943834404369827,Night Times Square,0.9543088337615047,Hotel Newton,0.9570463220412442
+1008,10880431,Mycity Duplex,Boro Hotel,0.9260778729045427,Sohotel,0.9368805596902197,The Paper Factory Hotel,0.9409718663899045
+1009,93555,Sheraton New York Times Square Hotel,Crowne Plaza Times Square Manhattan,0.8721906191384277,The Westin New York at Times Square,0.8793852337714836,New York Marriott Marquis,0.8964786630128091
+1010,99443,Astor on the Park,Marrakech Hotel on Broadway,0.889143549916735,Days Inn by Wyndham Hotel New York City-Broadway,0.9137058416889743,Broadway Tower,0.9217938112994225
+1011,266995,International Student Center,Baisley House Bed and Breakfast,0.8639172365120457,West Side YMCA,0.8721376762217976,Chelsea International Hostel,0.8725745247428988
+1012,564851,Courtyard New York Manhattan/Upper East Side,The Marmara Manhattan,0.9185743468782634,Hotel Wales,0.9218866534115057,The Franklin,0.9286532310067013
+1013,1025779,Candlewood Suites New York City Times Square,Holiday Inn Express New York City Times Square,0.9161238983385082,Staybridge Suites Times Square - New York City,0.9202254316030608,The New Yorker a Wyndham Hotel,0.9361530897437127
+1014,99288,Arthouse Hotel New York City,YOTEL New York,0.8177244889092641,The Lucerne Hotel,0.8471957594552098,Hotel Belleclaire,0.8570843735451077
+1015,1146072,Oakwood at 6th Avenue,YourStay MidTown Apartments,0.7763932022500211,Best Western Plus Hospitality House,0.9248353971997171,Fairfield Inn & Suites New York Manhattan/Downtown East,0.9402385695332803
+1016,2622936,Wyndham Garden Chinatown,Big Apple Hostel,0.9360470520608921,Orchard Street Hotel,0.9446151224378289,CitizenM New York Bowery,0.9457341242024638
+1017,12224088,Chelsea Art Suites,Oakwood 24 East 38th Street,0.8599719915971991,New York Apartments,0.8787321874818335,Green Holidays Apartments,0.9009852457023325
+1018,80112,San Carlos Hotel,The Kimberly Hotel,0.9135513935736501,The Benjamin,0.9374978636600014,Oakwood Ocean At 1 West Street,0.9401315659910751
+1019,249712,The Westin New York at Times Square,New York Marriott Marquis,0.8586497917601306,Crowne Plaza Times Square Manhattan,0.8688802285098766,InterContinental New York Times Square,0.8718386497425415
+1020,548336,Oasis Motel,Lexington Inn,0.42264973081037416,Hotel Lynx,0.6666666666666665,Galaxy Motel,0.7418011102528388
+1021,2218992,The Bowery House,Broadway Hotel and Hostel,0.8194978439499767,Royal Park Hotel,0.8234831747144375,Canal Loft Hotel,0.8279264861078899
+1022,2290672,Jazz on the Park,Broadway Hotel and Hostel,0.7986710515022117,Hostelling International - New York,0.8026849485939099,Jazz on Columbus Circle,0.8388354071949239
+1023,2441200,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),A accomodation B&B,0.5,"A Hospitality Company, Inc.",0.6464466094067263,Comfort Inn Brooklyn,0.7113248654051871
+1024,6201200,The Lex NYC,Edge Hotel,0.9105219245515181,NobleDEN Hotel,0.9219747768490287,The Marcel at Gramercy,0.9296791766967187
+1025,15288816,Fairfield Inn & Suites by Marriott New York Manhattan/Times Square 36th St.,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,0.8748913515657551,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9393521565136878,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,0.9413761637504762
+1026,207996,Soul Food Mont Morris,Bluebird Suites in Midtown West,0.8729998729998095,255West Guesthouse,0.8814763027685559,Easyliving-harlem,0.886407633150587
+1027,1507452,Ambassador Suites,Times Square Beds,1.0,Novotel New York Times Square,1.0,The Assemblage John Street,1.0
+1028,284904,Senton Hotel,La Semana Hotel,0.42264973081037416,The Grant Hotel,0.591751709536137,The Soho Loft,0.591751709536137
+1029,596200,Hudson River Hotel,36 Hudson Hotel,0.9060087460014451,Bluebird Suites in Midtown West,0.9216739550012043,Hotel Pennsylvania,0.9272128822203052
+1030,1082216,Harlem 144 Guest House,Empire 120,0.75,Stay the Night Bed & Breakfast,0.8232233047033631,Upper Yorkville Suites,0.8232233047033631
+1031,1218792,Hilton Garden Inn New York/West 35th Street,Hilton Garden Inn Times Square,0.7852097692376806,YOTEL New York,0.8569849642803189,Crowne Plaza Times Square Manhattan,0.8587392378087992
+1032,1653608,All of Our People,Hyatt Place Long Island City / New York City,0.9449518117436819,Aloft Long Island City - Manhattan View,0.9487010823957422,LIC Hotel,0.9545454545454546
+1033,6002536,Home2 Suites by Hilton New York Long Island City/ Manhattan View,Hilton Garden Inn Long Island City Queensboro Bridge,0.7181493948023352,Hyatt Place Long Island City / New York City,0.780552402252273,Best Western Plus Plaza Hotel,0.8089591762293452
+1034,8732904,Edge Hotel,The Lex NYC,0.9105219245515181,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,0.9220695831165912,Hampton Inn Manhattan Grand Central,0.9467466524600721
+1035,14485224,Dharma Home Suites Hoboken at Grand,Dharma Home Suites Hoboken at Novia,0.6872283789143878,W Hoboken,0.8492443277111181,Sheraton Lincoln Harbor Hotel,0.9379826327053957
+1036,93358,Pod 51 Hotel,Pod 39 Hotel,0.7634893992448755,YOTEL New York,0.8027562717090567,Hotel Pennsylvania,0.8033903987638169
+1037,93486,Millennium Broadway New York Times Square,Crowne Plaza Times Square Manhattan,0.8234383440050332,Millennium Premier New York Times Square,0.836320074339584,Hotel Edison Times Square,0.8375559878219065
+1038,93614,The St. Regis New York,"The Ritz-Carlton New York, Central Park",0.7412370691894492,The Peninsula New York,0.7442269777606723,Four Seasons Hotel New York,0.7796914941823561
+1039,99758,Oxbridge Apartments Carnegie Hill,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+1040,247982,Oxbridge Apts Gramecy Park,Heart of Harlem,1.0,Times Square Beds,1.0,Rostel,1.0
+1041,267182,Windsor Hotel,The Hotel 91,0.8992072245672238,Signature Suites The Sullivan Suites,0.9223849474293667,A & Faye Bed and Breakfast,0.9223849474293667
+1042,660142,The Sutton Residence,Apartments Upper West Side,0.5,Third Ave House,0.7113248654051871,Abode Bed and Breakfast,0.75
+1043,671150,The Empire Hotel,Hudson New York,0.8751869763143346,"6 Columbus, Central Park a Sixty Hotel",0.879015259865815,The Watson Hotel,0.9078112809064689
+1044,1197102,short term stay nyc,The Rivieria New York,0.42264973081037416,Rainbow Guesthouse,0.7113248654051871,710 Guest Suites,0.8845299461620748
+1045,1752366,Prive,The One Hundred,0.7642977396044841,Village Apartments,0.7642977396044841,Jones Street Guesthouse,0.8174258141649446
+1046,7316142,Courtyard,Fairfield Inn & Suites New York Manhattan/Central Park,0.9655989541923109,Fairfield Inn & Suites New York Manhattan/Chelsea,0.9660968248189595,Four Points by Sheraton Manhattan Chelsea,0.9698488655422236
+1047,8669230,The Quiet Inn on Central Park,Comfort Inn Sunset Park / Park Slope,0.8180982812227503,Hotel Cliff,0.9142507074287456,Rodeway Inn,0.9233035011152629
+1048,93454,Crowne Plaza Times Square Manhattan,Hilton Garden Inn Times Square,0.7540461231260591,YOTEL New York,0.7644705960333364,The New Yorker a Wyndham Hotel,0.8010857595132236
+1049,121998,The Marmara Manhattan,The Marmara Park Avenue,0.877352333378858,Hotel Wales,0.9084483522679078,Gardens Suites Hotel by Affinia,0.9100856237898132
+1050,234766,Oakwood Sonoma,YOTEL New York,1.0,Novotel New York Times Square,1.0,The Assemblage John Street,1.0
+1051,1567886,A accomodation B&B,"A Hospitality Company, Inc.",0.29289321881345254,Comfort Inn Brooklyn,0.42264973081037416,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),0.5
+1052,6727310,The Ludlow New York City,The Bowery Hotel,0.8544048837886223,PUBLIC,0.8794790809011335,The Marlton Hotel,0.8853451580965679
+1053,208888,Riff Chelsea,Elk Hotel,0.7327387580875756,Chelsea Inn - 11th Avenue,0.7609542781331213,Senton Hotel,0.8456966500379081
+1054,530296,Red Carpet Inn,Howard Johnson by Wyndham Brooklyn,0.5,Atlantic Motor Inn,0.6464466094067263,Quality Inn,0.6464466094067263
+1055,656248,Red Lion Inn and Suites Brooklyn,Lexington Inn,0.5527864045000421,She-Fah Hotel,0.7418011102528388,Oasis Motel,0.7418011102528388
+1056,2194552,Village Apartments,Jones Street Guesthouse,0.7418011102528389,Prive,0.7642977396044841,Soho House New York,0.8740118423302576
